@@ -8,7 +8,26 @@ cover-img:
 
 ## Current Members
 
-* Dr Hannah Leese - PI
+
+<div class="container">
+<div class="row">&nbsp;</div>
+	
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/Leese H 29668-0334_Dept photo_BW.jpg" class="img-responsive" alt="Dr Hannah Leese" /></a>
+	</div>
+	<div class="col-md-6">
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/hannah-leese"> Dr Hannah Leese </a> <br>
+		Lecturer in Chemical Engineering </p>
+	</div>
+</div>
+
+<br>
+
+</div>
+
+
 * Emma Daniels – CSCT EPSRC PhD Student (Oct 2018-)
 * Yasemin Mustafa – EPSRC PhD Student (Sept 2019-)
 * Joe Turner – EPSRC-Abbott PhD Student (Oct 2019-)

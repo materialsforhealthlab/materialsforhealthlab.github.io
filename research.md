@@ -8,7 +8,7 @@ cover-img:
 
 Our Materials for Health Lab, is developing advanced materials for transformative sustainable healthcare. 
 Specifically, to develop materials that can detect and diagnose the presence of disease at point-of-care. 
-Health and Well-being is the third goal of the UN Sustainability Development Goals, and our research is 
+Health and Well-being is the third goal of the [UN Sustainability Development Goals](https://sustainabledevelopment.un.org/sdg3), and our research is 
 seeking to contribute to sustaining healthcare, democratising healthcare and tackling the ever-increasing threat of antimicrobial resistance.
 
 
