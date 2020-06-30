@@ -1,5 +1,1 @@
-Please note that if you are trying to update **your** website, this is the wrong place to do so. Please carefully follow the Beautiful Jekyll instructions (found at https://github.com/daattali/beautiful-jekyll#readme) and make sure you submit changes to **your** version of the project.
-
-If your intention is to submit a Pull Request, please describe what your pull request achieves.
-
-Thank you!
+Remember to make the pull request to the correct base repository i.e. 'materialsforhealthlab/materialsforhealthlab.github.io'. Although we would like many to care, Dean (the website template creator) could't care less about our website updates! So be sure not to make the pull request to his repository...
