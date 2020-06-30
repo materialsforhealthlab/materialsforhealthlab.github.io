@@ -17,21 +17,21 @@ If you wish to apply for independent funding to come and work with us, get in to
 Below are a list of useful websites to explore potential research funding.
 
 #### PHD STUDENTSHIPS
-•	Chinese Scholarship Council (CSC) Scheme for Chinese scientists
-•	Imperial Marshall Scholarship Scheme for American scientists
+
+- [Chinese Scholarship Council (CSC) Scheme for Chinese scientists](https://www.bath.ac.uk/guides/china-scholarship-council-university-of-bath-phd-programme/)
+- [Imperial Marshall Scholarship Scheme for American scientists](https://www.marshallscholarship.org/apply)
 
 #### POSTDOCTORAL FELLOWSHIPS
-•	Marie Sklodowska-Curie Actions Research Fellowship Programme
-•	Newton International Fellowships for non-UK scientists
-•	Royal Commission for the Exhibition of 1851
-•	Leverhulme Trust
-•	Ramsay Memorial Fellowships
-•	DAAD for German scientists
-•	JSPS Fellowships for research in Japan
+- [Marie Sklodowska-Curie Actions Research Fellowship Programme](https://ec.europa.eu/research/mariecurieactions/)
+- [Newton International Fellowships for non-UK scientists](https://royalsociety.org/grants-schemes-awards/grants/newton-international/?gclid=EAIaIQobChMIqrTLsZup3QIV5r3tCh2d2AsFEAAYASAAEgKVJvD_BwE)
+- [Royal Commission for the Exhibition of 1851](https://www.royalcommission1851.org)
+- [Leverhulme Trust](https://www.leverhulme.ac.uk)
+- [Ramsay Memorial Fellowships](https://www.soci.org/awards/scholarships-and-fellowships/ramsay-fellowship)
+- [JSPS Fellowships for research in Japan](https://www.jsps.go.jp/english/e-fellow/index.html)
 
 
 ## Contact:
-h.s.leese@bath.ac.uk
+[h.s.leese@bath.ac.uk](mailto:h.s.leese@bath.ac.uk)
 
 Tel: +44 (0)1225 383426
 
