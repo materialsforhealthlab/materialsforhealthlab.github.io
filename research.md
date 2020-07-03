@@ -17,8 +17,10 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
 <span style="font-size:1.5em">_Material developments ongoing for diagnostic applications:_</span>
 
 
-## Materials for Bacterial Infection Detection
+### Materials for Bacterial Infection Detection
+- Epitope imprinted polymers (artificial antibody)
 
+<!-- 
 <div class="container">
 <div class="row">&nbsp;</div>
 	
@@ -37,8 +39,11 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
 <br>
 
 </div>
+ -->
+
 
 <br>
+
 
 ### Materials for Early Cancer Detection
 -	Bioconjugation of biodegradable polymers for cancerous epitope detection
