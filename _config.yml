@@ -52,31 +52,32 @@ social-network-links:
   email: "h.s.leese@bath.ac.uk"
   github: materialsforhealthlab
   orcid: "0000-0003-4523-3804"
-  google-scholar: "citations?user=Tr4O7XAAAAAJ"
-  linkedin: hannah-leese-7a932b80
-
+  google-scholar: "citations?user=Tr4O7XAAAAAJ&hl=en"
+  
+# linkedin: 
 #  rss: true
 #  reddit: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  stackoverflow: ""
+#  snapchat: 
+#  instagram: 
+#  youtube: 
+#  spotify: 
+#  telephone: 
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 #share-links-active:
-#  twitter: true
-#  facebook: true
+#  google-scholar: true
+#  twitter: false   
+#  facebook: false
 #  linkedin: true
 #  vk: false
 
@@ -170,9 +171,6 @@ title-separator: "-"
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
-
-# Facebook App ID
-#fb_app_id: ""
 
 
 # --- You don't need to touch anything below here (but you can if you want) --- #
