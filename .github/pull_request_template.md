@@ -1,1 +1,3 @@
 Remember to make the pull request to the correct base repository i.e. 'materialsforhealthlab/materialsforhealthlab.github.io'. Although we would like many to care, Dean (the website template creator) couldn't care less about our website updates! So be sure not to make the pull request to his repository...
+
+Now you can delete this message and describe the change of your pull request. 
