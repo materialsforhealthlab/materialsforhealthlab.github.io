@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-subtitle: Find out the latest news from the lab!
+subtitle: Find out the latest news from the lab...
 cover-img:
   - '/img/bundle-1853667_1280.jpg': "Image by Pexels from Pixabay "
 
