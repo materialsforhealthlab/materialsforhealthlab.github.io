@@ -58,7 +58,7 @@ cover-img:
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://uk.linkedin.com/in/yasemin-mustafa-b12106150"> Yasemin Mustafa </a> <br>
-		C3Bio PhD Student Sept 2019- <br>
+		C3Bio PhD Student (2019-) <br>
 		<p style="color:black;font-size:16px;">Yasemin is a current PhD student working on "Multifunctional Devices for Rapid Point-of Diagnostics". This project is dedicated to the development of a novel multiplex platform biosensor device for the diagnosis of the onset of infection, with a specific focus on sepsis at the point-of-care to prevent the distribution of broad-spectrum antibiotics. Yasemin obtained a Chemistry (BSc) and a Chemical Research (MSc) from Queen Mary University of London with both degrees demonstrating a strong focus on biomaterials. The research projects concentrated on the synthesis of phosphate-based glasses for tissue engineering. </p>  
 		 </p>
 	</div>
