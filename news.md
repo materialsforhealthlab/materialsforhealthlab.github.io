@@ -1,7 +1,10 @@
 ---
 layout: page
 title: News
-#subtitle: Latest news from the lab!
+subtitle: Find out the latest news from the lab!
+cover-img:
+  - '/img/bundle-1853667_1280.jpg': "Image by Pexels from Pixabay "
+
 ---
 
 * **Mar 2020:** Welcome to Eleni and Sotia who are joining the lab for their MSc Research Projects in Janus materials.
