@@ -12,7 +12,7 @@ title: News
 
 * **Jan 2020:** Hannah visits [Dr Rico Tabor's Lab](https://sites.google.com/view/smaclab) at Monash University to do some AFM!
 
-* **Jan 2020:** Hannah presents the labs research at the [Vice Chanellor's Research Day](https://www.bath.ac.uk/announcements/vice-chancellors-research-day-2020/). It was a real privilege to be able to share the labs work and vision with fellow early career researchers. 
+* **Jan 2020:** Hannah presents the labs research at the [Vice Chancellor's Research Day](https://www.bath.ac.uk/announcements/vice-chancellors-research-day-2020/). It was a real privilege to be able to share the labs work and vision with fellow early career researchers. 
 
 * **Dec 2019:** Joe and Yasemin attend Skin@Bath Network Symposium.
 
@@ -28,7 +28,7 @@ title: News
 
 * **Sept 2019:** Congratulations to Emma for a fantastic experimental and computational project! We are very happy you will stay with us during your PhD studies!
 
-* **Jun 2019:** Hannah presents her research to prospectie researchers at [UDLAP](https://www.udlap.mx/studyabroad/index.html), Puebla, Mexico, with colleagues from the University of Bath, to foster a research partnership between the two institutions. 
+* **Jun 2019:** Hannah presents her research to prospective researchers at [UDLAP](https://www.udlap.mx/studyabroad/index.html), Puebla, Mexico, with colleagues from the University of Bath, to foster a research partnership between the two institutions. 
 
 * **May 2019:** Emma Daniels starts her second masters research project on molecularly imprinted polymers for cortisol detection. Welcome Emma!
 
