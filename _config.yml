@@ -15,7 +15,7 @@ title: Materials For Health Lab
 description: Website of the Materials For Health Lab
 
 # Your name to show in the footer
-author: Materials for Health
+author: Materials for Health Lab
 
 # --- List of links in the navigation bar --- #
 
@@ -25,7 +25,7 @@ navbar-links:
   Members: "members"
   Publications: "publications"
   News: "news"
-  Opportunities and Contact: "opportunities"
+  Join Us!: "opportunities"
 #   Contact: "contacts"
 
 
@@ -50,9 +50,10 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "h.s.leese@bath.ac.uk"
-  github: materialsforhealthlab
-  orcid: "0000-0003-4523-3804"
+  github: "materialsforhealthlab"
+  ORCID: "0000-0003-4523-3804"
   google-scholar: "citations?user=Tr4O7XAAAAAJ&hl=en"
+  UoB: "hannah-leese"
   
 # linkedin: 
 #  rss: true
