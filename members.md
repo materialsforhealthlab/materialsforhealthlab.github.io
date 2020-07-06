@@ -64,9 +64,21 @@ cover-img:
 	</div>
 </div>
 <br>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/JT.jpg" class="img-responsive" alt="Joe Turner" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a> Joe Turner </a> <br>
+		Abbott PhD Student (2019-) <br>
+		<p style="color:black;font-size:16px;">Joe is a current PhD student working on the project titled: “Detect, Treat and Tell” (shortened) – developing polymeric responsive microneedle-based skin patches. This research project is EPSRC match-funded with Abbott and co-supervised by <a href="https://researchportal.bath.ac.uk/en/persons/pedro-estrela"> Dr Pedro Estrela </a> and Dr Michael Thatcher (Abbott). Joe joined the University of Bath in 2019 after obtaining a master’s degree in Biomedical Engineering (MEng) from Swansea University. During this time Joe worked on graphene biosensors in the Centre for NanoHealth and on novel acid soluble collagen foams for regenerative medicine. Joe’s interests include 3D printing which he uses to fabricate microneedles. </p>  
+		 </p>
+	</div>
+</div>
+<br>
 </div>
 
-* Joe Turner – EPSRC-Abbott PhD Student (Oct 2019-)
 * Harindi Jayakody – Industrial PhD Student at Lumora (Oct 2019-)
 * Sukanya Hongthong – Royal Thai Scholarship PhD Student (2017-)
 * Ria Atri – CSCT EPSRC PhD Student (2016-)
