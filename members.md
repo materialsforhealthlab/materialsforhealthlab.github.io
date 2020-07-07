@@ -77,9 +77,21 @@ cover-img:
 	</div>
 </div>
 <br>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/HJ.jpg" class="img-responsive" alt="Harindi Jayakody" /></a>
+	</div>
+	<div class="col-md-9">
+	<p> <a href="https://linkedin.com/in/harindi-jayakody-656940130"> Harindi Jayakody </a> <br>
+		Industrial PhD Student (2019-) <br>
+		<p style="color:black;font-size:16px;">Harindi is a current PhD student working on developing HIV viral load devices. She is an industrially based PhD student and is working as a scientist at Erba Molecular. Her project is dedicated towards developing a cost-effective, robust, quantitative HIV viral load device for application in low resource settings. Harindi joined the University of Bath in 2019 after obtaining an integrated masters in molecular biology and biochemistry from the University of Sheffield. Her MSc project was focused on developing a semi-quantitative assay for HIV viral load monitoring.  </p>  
+		 </p>
+	</div>
+</div>
+<br>
 </div>
 
-* Harindi Jayakody – Industrial PhD Student at Lumora (Oct 2019-)
 * Sukanya Hongthong – Royal Thai Scholarship PhD Student (2017-)
 * Ria Atri – CSCT EPSRC PhD Student (2016-)
 * Jess Hines – CSCT EPSRC-Phosphonics PhD student (Oct 2019-)
