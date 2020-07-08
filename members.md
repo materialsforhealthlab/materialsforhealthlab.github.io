@@ -25,7 +25,7 @@ cover-img:
 	</div>
 </div>
 
-<br>
+<hr>
 
 </div>
 
@@ -45,7 +45,7 @@ cover-img:
 	</div>
 </div>
 
-<br>
+<hr>
 
 </div>
 <div class="container">
@@ -63,7 +63,7 @@ cover-img:
 		 </p>
 	</div>
 </div>
-<br>
+<hr>
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -76,7 +76,7 @@ cover-img:
 		 </p>
 	</div>
 </div>
-<br>
+<hr>
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -89,7 +89,7 @@ cover-img:
 		 </p>
 	</div>
 </div>
-<br>
+<hr>
 </div>
 
 * Sukanya Hongthong – Royal Thai Scholarship PhD Student (2017-)
@@ -98,6 +98,8 @@ cover-img:
 * Bo Zhu – PhD Student (Oct 2019-)
 * Eleni Nicodemou– MSc Student (Feb 2020-)
 * Sotia Neopyhtou – MSc Student (Feb 2020-)
+
+<hr>
 
 ## Former Members
 
