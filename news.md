@@ -7,6 +7,10 @@ cover-img:
 
 ---
 
+* **May 2020:** Leah, Ying, Mark and Nathan complete their MEng Research Projects with us. Thank you for all your hard-work and resilience through COVID-19. Be very proud of your achievements. Wishing you the very best for next year and beyond!
+
+* **Apr 2020:** Emma supports young learners through lockdown and beyond in the [Disease Detectives Zone - I am a Scientist](https://diseasedetect20.imascientist.org.uk/profile/emmadaniels/). 
+
 * **Mar 2020:** Welcome to Eleni and Sotia who are joining the lab for their MSc Research Projects in Janus materials.
 
 * **Mar 2020:** Emma attended the Women in Chemistry conference at Nottingham University, UK and won the poster prize! Congratulations Emma!​
