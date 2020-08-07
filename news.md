@@ -7,6 +7,8 @@ cover-img:
 
 ---
 
+* **Aug 2020:** Congratulations Yaya on publishing your paper on '[Valorizing Plastic-Contaminated Waste Streams through the Catalytic Hydrothermal Processing of Polypropylene with Lignocellulose](https://pubs.acs.org/doi/10.1021/acsomega.0c02854)'
+
 * **May 2020:** Leah, Ying, Mark and Nathan complete their MEng Research Projects with us. Thank you for all your hard-work and resilience through COVID-19. Be very proud of your achievements. Wishing you the very best for next year and beyond!
 
 * **Apr 2020:** Emma supports young learners through lockdown and beyond in the [Disease Detectives Zone - I am a Scientist](https://diseasedetect20.imascientist.org.uk/profile/emmadaniels/). 

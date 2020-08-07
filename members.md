@@ -105,9 +105,9 @@ cover-img:
 
 * Duangkamon Thasriphu – MEng (Feb-May 2020)
 * Leah White – MEng (Feb-May 2020)
-* Mark Duggan MEng (Feb-May 2020)
-* Nathan Eedy MEng (Feb-May 2020)
-* Chloe Davies MEng (Feb-Apr 2019)
-* Maveendra Durailingam MEng (Feb-Apr 2019)
-* Theo Roffe MEng (Feb-Apr 2019)
+* Mark Duggan - MEng (Feb-May 2020)
+* Nathan Eedy - MEng (Feb-May 2020)
+* Chloe Davies - MEng (Feb-Apr 2019)
+* Maveendra Durailingam - MEng (Feb-Apr 2019)
+* Theo Roffe - MEng (Feb-Apr 2019)
 
