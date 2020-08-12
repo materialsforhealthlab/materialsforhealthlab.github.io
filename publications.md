@@ -8,12 +8,15 @@ cover-img:
 
 **Journal Articles**
 
-2019
+2020
+
+S. Hongthong, H. Leese, C. Chuck "[Valorizing Plastic-Contaminated Waste Streams through the Catalytic Hydrothermal Processing of Polypropylene with Lignocellulose](https://pubs.acs.org/doi/10.1021/acsomega.0c02854)" ACS Omega, 2020, just published online
 
 WJ. Lee, E. Paineau, D. B. Anthony, Y. Gao, H. S. Leese, S. Rouzière, P. Launois and M. S. P. Shaffer, "[Inorganic Nanotube Mesophases Enable Strong Self-Healing Fibers](https://pubs.acs.org/doi/10.1021/acsnano.9b09873)" ACS Nano, 2020, 14, 5570-5580.
 
 S. Hongthong, S. Raikova, H. Leese, C. Chuck "[Co-processing of common plastics with pistachio hulls via hydrothermal liquefaction](https://www.sciencedirect.com/science/article/pii/S0956053X19306993?via%3Dihub)" Waste Management 102, 2020, 351-61 
 
+2019 
 
 WJ. Lee, A. Clancy, J. Fernández-Toribiode, D.Anthony, E.White, E. Solano, H. Leese, J. Vilatela, M. Shaffer “[Interfacially-graftesd single-walled carbon nanotube / poly (vinyl alcohol) composite fibers](https://www.sciencedirect.com/science/article/pii/S000862231930065X?via%3Dihub#!)” Carbon, 146, 2019, 162-171
 
