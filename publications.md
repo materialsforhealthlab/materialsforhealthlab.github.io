@@ -4,6 +4,7 @@ title: Publications
 subtitle: Find out about our published work...
 cover-img:
   - '/img/patrick-tomasso_edit.jpg': "Photo by Patrick Tomass on Unsplash"
+description: Read the lastest published work of the Materials for Health Lab.
 ---
 
 **Journal Articles**
