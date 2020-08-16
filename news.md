@@ -4,7 +4,8 @@ title: News
 subtitle: Find out the latest news from the lab...
 cover-img:
   - '/img/bundle-1853667_1280.jpg': "Image by Pexels from Pixabay "
-
+description: Latest news from the Materials for Health Lab!
+  
 ---
 
 * **Aug 2020:** Congratulations Yaya on publishing your paper '[Valorizing Plastic-Contaminated Waste Streams through the Catalytic Hydrothermal Processing of Polypropylene with Lignocellulose](https://pubs.acs.org/doi/10.1021/acsomega.0c02854)'!

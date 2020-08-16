@@ -4,6 +4,7 @@ title: Join Us!
 subtitle: Applications from highly motivated prospective postgraduate students and researchers welcome at any time.
 cover-img:
   - '/img/25393-107.jpg': "Copyright © IDPS, University of Bath"
+description: Look here for all opportunities to join the lab along with useful links for funding.
 ---
 
 ## Current Opportunities
@@ -26,8 +27,7 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 Below are a list of useful websites to explore potential research funding:
 
 #### PhD Studentships
-- [Newton PhD Programme](https://www.britishcouncil.org/education/science/newton-phd-programme)
-- [Chinese Scholarship Council (CSC) Scheme for Chinese scientists](https://www.bath.ac.uk/guides/china-scholarship-council-university-of-bath-phd-programme/)
+- [Newton PhD Programme](https://www.britishcouncil.org/education/science/newton-phd-programme)[Chinese Scholarship Council (CSC) Scheme for Chinese scientists](https://www.bath.ac.uk/guides/china-scholarship-council-university-of-bath-phd-programme/)
 - [Imperial Marshall Scholarship Scheme for American scientists](https://www.marshallscholarship.org/apply)
 
 #### Postdoctoral Fellowships
