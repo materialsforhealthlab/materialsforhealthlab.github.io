@@ -8,6 +8,8 @@ description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Aug 2020:** Hannah becomes Topic Editor for [Materials - Open Access Journal](https://www.mdpi.com/journal/materials/topic_editors)
+
 * **Aug 2020:** Congratulations Yaya on publishing your paper '[Valorizing Plastic-Contaminated Waste Streams through the Catalytic Hydrothermal Processing of Polypropylene with Lignocellulose](https://pubs.acs.org/doi/10.1021/acsomega.0c02854)'!
 
 * **May 2020:** Leah, Ying, Mark and Nathan complete their MEng Research Projects with us. Thank you for all your hard-work and resilience through COVID-19. Be very proud of your achievements. Wishing you the very best for next year and beyond!
