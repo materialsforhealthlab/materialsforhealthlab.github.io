@@ -4,7 +4,7 @@ title: Join Us!
 subtitle: Applications from highly motivated prospective postgraduate students and researchers welcome at any time.
 cover-img:
   - '/img/25393-107.jpg': "Copyright © IDPS, University of Bath"
-description: Look here for all opportunities to join the lab along with useful links for funding.
+share-description: Look here for all opportunities to join the lab along with useful links for funding.
 ---
 
 ## Current Opportunities
