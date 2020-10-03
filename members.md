@@ -4,7 +4,7 @@ title: Members
 subtitle: Find out more about the members of the lab!
 cover-img:
   - '/img/20200227_100500_edit3.jpg': "Group Photo Feb 2020 - Pre-Covid-19"
-description: Find out more about the Materials for Health Lab members!
+share-description: Find out more about the Materials for Health Lab members!
 ---
 
 ## Current Members

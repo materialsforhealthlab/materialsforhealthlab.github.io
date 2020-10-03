@@ -4,7 +4,7 @@ title: Research
 subtitle: 'Developing advanced materials for point-of-care diagnostics for transformative healthcare technologies'
 cover-img:
   - '/img/RFRx4_1600001_edit1.jpg': "Polarised optical microscopy of liquid crystalline polypeptides"
-description: Learn more about the various research topics for Materials for Health in Dr Hannah Leese's lab!
+share-description: Learn more about the various research topics for Materials for Health in Dr Hannah Leese's lab!
 ---
 
 Our Materials for Health Lab, is developing advanced materials for transformative sustainable healthcare. 

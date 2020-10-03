@@ -4,12 +4,12 @@ title: Publications
 subtitle: Find out about our published work...
 cover-img:
   - '/img/patrick-tomasso_edit.jpg': "Photo by Patrick Tomass on Unsplash"
-description: Read the lastest published work of the Materials for Health Lab.
+share-description: Read the lastest published work of the Materials for Health Lab.
 ---
 
 **Journal Articles**
 
-2020
+**2020**
 
 S. Hongthong, H. Leese, C. Chuck "[Valorizing Plastic-Contaminated Waste Streams through the Catalytic Hydrothermal Processing of Polypropylene with Lignocellulose](https://pubs.acs.org/doi/10.1021/acsomega.0c02854)" ACS Omega, 2020, just published online
 
@@ -17,15 +17,15 @@ WJ. Lee, E. Paineau, D. B. Anthony, Y. Gao, H. S. Leese, S. Rouzière, P. Launoi
 
 S. Hongthong, S. Raikova, H. Leese, C. Chuck "[Co-processing of common plastics with pistachio hulls via hydrothermal liquefaction](https://www.sciencedirect.com/science/article/pii/S0956053X19306993?via%3Dihub)" Waste Management 102, 2020, 351-61 
 
-2019 
+**2019** 
 
 WJ. Lee, A. Clancy, J. Fernández-Toribiode, D.Anthony, E.White, E. Solano, H. Leese, J. Vilatela, M. Shaffer “[Interfacially-graftesd single-walled carbon nanotube / poly (vinyl alcohol) composite fibers](https://www.sciencedirect.com/science/article/pii/S000862231930065X?via%3Dihub#!)” Carbon, 146, 2019, 162-171
 
-2018
+**2018**
 
 A.  Clancy, H. Leese, N. Rubio, D. Buckley, J. Greenfield, M. Shaffer, “[Depleting Depletion: Maintaining Single-Walled Carbon Nanotube Dispersions after Graft-To Polymer Functionalization](https://pubs.acs.org/doi/10.1021/acs.langmuir.8b03144)” Langmuir, 2018, 34 (50) 15396-15402
 
-2017
+**2017**
 
 N. Rubio, H. Au, H. Leese, S. Hu, M. Shaffer, "[Grafting from versus grafting to approaches for the functionalisation of graphene nanoplatelets with poly(methyl methacrylate)](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.7b01047)" Macromolecules, 2017, 50 (18), pp 7070–7079
 
@@ -35,7 +35,7 @@ S. Hu, Z. Laker, H. Leese, N. Rubio, M. De Marco, H. Au, M. Skilbeck, N. Wilson,
 
 A. Clancy, D. Anthony, S. Fisher, H. Leese, C. Roberts, M. Shaffer “[Reductive dissolution of supergrowth carbon nanotubes for tougher nanocomposites by reactive coagulation spinning](https://pubs.rsc.org/en/content/articlelanding/2017/nr/c7nr00734e#!divAbstract)” Nanoscale, 2017, 9, 8764-8773	
 
-2016
+**2016**
 
 L. Govada,* H. Leese,*  E. Saridakis, S. Kassen, B. Chain S. Khurshid, R. Menzel, S. Hu, M. Shaffer and N. Chayen “[Exploring Carbon Nanomaterial Diversity for Nucleation of Protein Crystals](https://www.nature.com/articles/srep20053)” Scientific Reports, 2016, 6, 20053 *contributed equally
 
@@ -44,18 +44,18 @@ H. Leese,* L. Govada,* E. Saridakis, S. Khurshid, R. Menzel, T. Morishita, A. Cl
 
 D. Mattia, H. Leese, F. Calabrò “[Electro-osmotic flow enhancement in carbon nanotube membranes](https://rsta.royalsocietypublishing.org/content/374/2060/20150268)” Philosophical Transactions of the Royal Society of London A, 2016, 374, 20150268
 
-2015
+**2015**
 
 D. Mattia, H. Leese, K. Lee “[Carbon nanotube membranes: From flow enhancement to permeability](https://www.sciencedirect.com/science/article/pii/S0376738814008060)” Journal of Membrane Science, 2015, 475, 266.
 
-2014
+**2014**
 
 D. Mattia, H. Leese “[Controlled hydrothermal pore reduction in anodic alumina membranes](https://pubs.rsc.org/en/content/articlelanding/2014/nr/c4nr04661g#!divAbstract)” Nanoscale, 2014, 6, 13952.
 
 
 H. Leese, D. Mattia “[Electroosmotic flow in nanoporous membranes in the region of electric double layer overlap](https://link.springer.com/article/10.1007/s10404-013-1255-0)” Microfluidics and Nanofluidics, 2014, 16(4), 711.
 
-2013
+**2013**
 
 C. Wu*, H. Leese *, D. Mattia, R. Dagastine, D. Chan and R. Tabor “[Study of Fluid and Transport Properties of Porous Anodic Aluminum Membranes by Dynamic Atomic Force Microscopy](https://pubs.acs.org/doi/abs/10.1021/la401261z)” Langmuir, 2013, 29(28), 8969 *contributed equally
 
@@ -63,7 +63,7 @@ B. Quignon, G. A. Pilkington, E. Thormann, P. M. Claesson, M. N. R. Ashfold, D. 
 
 H. Leese, V. Bhurtun, K. P. Lee and D. Mattia, “[Wetting of hydrophilic and hydrophobic nanostructured porous anodic alumina](https://www.sciencedirect.com/science/article/pii/S0927775712008606)”. Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2013, 420, 53.
 
-2012
+**2012**
 
 K. P. Lee, H. Leese, D. Mattia, “[Water flow enhancement in hydrophilic nanochannels](https://pubs.rsc.org/en/content/articlelanding/2012/nr/c2nr30098b#!divAbstract)” Nanoscale, 2012, 4(8), 2621.
 
