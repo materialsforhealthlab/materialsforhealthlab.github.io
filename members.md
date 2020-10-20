@@ -93,17 +93,32 @@ share-description: Find out more about the Materials for Health Lab members!
 <hr>
 </div>
 
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/Meltem.jpg" class="img-responsive" alt="Meltem Agar" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a> Meltem Agar </a> <br>
+		C3Bio PhD Student (2020-) <br>
+		<p style="color:black;font-size:16px;">Meltem obtained her BSc and MSc degrees in Physics from Marmara University and Yildiz Technical University in 2012 and 2015, respectively. Her MSc project focused on developing biosensors for detection of heavy metal ions and bacteria in liquids. She is a current PhD student in the Electronic and Electrical Engineering Department working on the ‘’Development of Molecularly Imprinted Polymer Based Sensor Arrays for Detection of Pathogenic Bacteria’’ supervised by Dr Pedro Estrela and co-supervised by Dr Hannah Leese and Dr Maisem Laabei. With this study, it is aimed to detect bacteria harmful to human health such as E. coli, K. pneumoniae in water using molecularly imprinted polymer based sensors.  </p>  
+		 </p>
+	</div>
+</div>
+<hr>
+
+
 * Sukanya Hongthong – Royal Thai Scholarship PhD Student (2017-)
 * Ria Atri – CSCT EPSRC PhD Student (2016-)
 * Jess Hines – CSCT EPSRC-Phosphonics PhD student (Oct 2019-)
 * Bo Zhu – PhD Student (Oct 2019-)
-* Eleni Nicodemou– MSc Student (Feb 2020-)
-* Sotia Neopyhtou – MSc Student (Feb 2020-)
+
 
 <hr>
 
 ## Former Members
 
+* Eleni Nicodemou– MSc Student (Feb-Sept 2020)
+* Sotia Neopyhtou – MSc Student (Feb-Sept 2020)
 * Duangkamon Thasriphu – MEng (Feb-May 2020)
 * Leah White – MEng (Feb-May 2020)
 * Mark Duggan - MEng (Feb-May 2020)
