@@ -11,7 +11,7 @@ share-description: Read the lastest published work of the Materials for Health L
 
 **2020**
 
-J. Turner  L. White, P. Estrela,  H. Leese"[Hydrogel‐Forming Microneedles: Current Advancements and Future Trends](https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000307)" Macromolecular Bioscience, 2020, just published online
+J. Turner  L. White, P. Estrela,  H. Leese "[Hydrogel‐Forming Microneedles: Current Advancements and Future Trends](https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000307)" Macromolecular Bioscience, 2020, just published online
 
 S. Hongthong, H. Leese, C. Chuck "[Valorizing Plastic-Contaminated Waste Streams through the Catalytic Hydrothermal Processing of Polypropylene with Lignocellulose](https://pubs.acs.org/doi/10.1021/acsomega.0c02854)" ACS Omega, 2020, 5, 32, 20586–20598
 
@@ -21,7 +21,7 @@ S. Hongthong, S. Raikova, H. Leese, C. Chuck "[Co-processing of common plastics 
 
 **2019** 
 
-WJ. Lee, A. Clancy, J. Fernández-Toribiode, D.Anthony, E.White, E. Solano, H. Leese, J. Vilatela, M. Shaffer “[Interfacially-graftesd single-walled carbon nanotube / poly (vinyl alcohol) composite fibers](https://www.sciencedirect.com/science/article/pii/S000862231930065X?via%3Dihub#!)” Carbon, 146, 2019, 162-171
+WJ. Lee, A. Clancy, J. Fernández-Toribiode, D. Anthony, E .White, E. Solano, H. Leese, J. Vilatela, M. Shaffer “[Interfacially-graftesd single-walled carbon nanotube / poly (vinyl alcohol) composite fibers](https://www.sciencedirect.com/science/article/pii/S000862231930065X?via%3Dihub#!)” Carbon, 146, 2019, 162-171
 
 **2018**
 
