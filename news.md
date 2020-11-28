@@ -8,6 +8,8 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Nov 2020:** Congratulations to Joe for your first published review on [hydrogel microneedles](https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000307)! Great work and great read!
+
 * **Aug 2020:** Hannah becomes Topic Editor for [Materials - Open Access Journal](https://www.mdpi.com/journal/materials/topic_editors)
 
 * **Aug 2020:** Congratulations Yaya on publishing your paper '[Valorizing Plastic-Contaminated Waste Streams through the Catalytic Hydrothermal Processing of Polypropylene with Lignocellulose](https://pubs.acs.org/doi/10.1021/acsomega.0c02854)'!
