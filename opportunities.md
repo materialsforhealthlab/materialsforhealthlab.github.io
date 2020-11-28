@@ -13,7 +13,7 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* We don't currently have any open positions but if are considering a fellowship in the group please do get in touch.
+* We don't currently have any open positions but if you are considering a fellowship in the group please do get in touch.
  
 #### PhD Studentships
 
