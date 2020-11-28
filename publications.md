@@ -11,7 +11,7 @@ share-description: Read the lastest published work of the Materials for Health L
 
 **2020**
 
-J. Turner  L. White, P. Estrela  H. Leese"[Hydrogel‐Forming Microneedles: Current Advancements and Future Trends](https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000307)" Macromolecular Bioscience, 2020, just published online
+J. Turner  L. White, P. Estrela,  H. Leese"[Hydrogel‐Forming Microneedles: Current Advancements and Future Trends](https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000307)" Macromolecular Bioscience, 2020, just published online
 
 S. Hongthong, H. Leese, C. Chuck "[Valorizing Plastic-Contaminated Waste Streams through the Catalytic Hydrothermal Processing of Polypropylene with Lignocellulose](https://pubs.acs.org/doi/10.1021/acsomega.0c02854)" ACS Omega, 2020, 5, 32, 20586–20598
 
