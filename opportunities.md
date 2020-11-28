@@ -13,12 +13,13 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* We have a 12 month CRUK research assistant position developing an exosome-based diagnostic module for early cancer detection, working with Dr Hannah Leese, [Dr Sandhya Moise (Bath)](https://researchportal.bath.ac.uk/en/persons/sandhya-moise) and [Dr Paul Roach (Loughborough)](https://www.lboro.ac.uk/departments/chemistry/staff/academic-research/paul-roach/) starting Jan 2021. To find out more get in touch!
-* If you wish to apply for independent funding to come and work with us, get in touch!
-
+* We don't currently have any open positions but if are considering a fellowship in the group please do get in touch.
+ 
 #### PhD Studentships
 
-* We don't currently have any funded PhD studentships available in the group, but please see the useful links below for potential funding routes.
+* We have an open PhD opportunity [Personalized pharmaceutical manufacturing: Industry 4.0 technologies](https://www.findaphd.com/phds/project/personalized-pharmaceutical-manufacturing-industry-4-0-technologies/?p127112). 
+
+* There are useful links below for potential funding routes.
 
 <hr>
 
