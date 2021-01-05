@@ -7,6 +7,9 @@ cover-img:
 share-description: Latest news from the Materials for Health Lab!
   
 ---
+* **Jan 2020:** Welcome Dan!! We are very happy you are working with us and excited for the project ahead. Dan has recently completed his PhD at Loughborough and will be working on the CRUK project with Dr Sandhya Moise (Bath) and Dr Paul Roach (Loughborough).
+
+* **Dec 2020:** Emma presents her research on the stereocomplexation of mannose-based polycarbonates at the [CSCT Winter Showcase](https://www.csct.ac.uk/csct-winter-showcase-2020/). Great presentation Emma, well done! And brilliant online conference organising too!
 
 * **Nov 2020:** Congratulations to Joe for your first published review on [hydrogel microneedles](https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000307)! Great work and great read!
 
