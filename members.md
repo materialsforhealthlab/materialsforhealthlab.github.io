@@ -40,7 +40,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	<div class="col-md-9">
 		<p> <a href="https://materialsforhealthlab.org/members/"> Dr Daniel Merryweather </a> <br>
 		Specialist Technician in Chemical Engineering <br>
-		<p style="color:black;font-size:16px;">Dan is a recent PhD graduate of the EPSRC Regenerative Medicine DTC with a multidisciplinary background developing microscale platforms for neuromuscular tissue engineering. In this work he has developed a 3D neuromuscular tissue model and assayed the structure of collagen hydrogels by infrared spectroscopy and electron microscopy. He is currently working on the integration of anodized aluminium membranes into a microfluidic device to detect early-stage ovarian cancers from isolated vesicles. Dan completed his MSc in Tissue Engineering at the University of Keele generating patterned surface gradients of morphogenic proteins such as Wnt. </p>
+		<p style="color:black;font-size:16px;">Dan is a recent PhD graduate of the EPSRC Regenerative Medicine DTC with a multidisciplinary background developing microscale platforms for neuromuscular tissue engineering. In this work he has developed a 3D neuromuscular tissue model and assayed the structure of collagen hydrogels by infrared spectroscopy and electron microscopy. He is currently working on a microfluidic device to detect early-stage ovarian cancers from isolated vesicles. Dan completed his MSc in Tissue Engineering at the University of Keele generating patterned surface gradients of morphogenic proteins such as Wnt. </p>
 		</p>
 	</div>
 </div>
