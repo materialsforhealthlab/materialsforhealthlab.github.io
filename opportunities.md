@@ -17,8 +17,6 @@ Keep up to date here with current open positions in the lab for postdoctoral res
  
 #### PhD Studentships
 
-* We have an open PhD opportunity [Personalized pharmaceutical manufacturing: Industry 4.0 technologies](https://www.findaphd.com/phds/project/personalized-pharmaceutical-manufacturing-industry-4-0-technologies/?p127112). 
-
 * There are useful links below for potential funding routes.
 
 <hr>
