@@ -13,7 +13,7 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* We don't currently have any open positions but if you are considering a fellowship in the group please do get in touch.
+* We have a new PDRA position to come and work with us on our MIMIC project starting in Apr 2021, see [here](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8036) for more details.
  
 #### PhD Studentships
 
