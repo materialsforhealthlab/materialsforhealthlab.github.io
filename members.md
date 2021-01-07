@@ -129,7 +129,7 @@ share-description: Find out more about the Materials for Health Lab members!
 
 ## Former Members
 
-* Sukanya Hongthong – Royal Thai Scholarship PhD Student (2017-2020)
+* Sukanya Hongthong – Royal Thai Scholarship PhD Student (2017-2021)
 * Eleni Nicodemou– MSc Student (Feb-Sept 2020)
 * Sotia Neopyhtou – MSc Student (Feb-Sept 2020)
 * Duangkamon Thasriphu – MEng (Feb-May 2020)
