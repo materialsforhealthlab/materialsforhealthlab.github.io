@@ -3,7 +3,7 @@ layout: page
 title: Members
 subtitle: Find out more about the members of the lab!
 cover-img:
-  - '/img/Group_photo_virtual.jpg': "Group Photo Dec 2020 - Lockdown Group Meetings!"
+  - '/img/gp_photo_2.jpg': "Group Photo Feb 2020 to Dec 2020 - Lab to Lockdown meetings!"
 share-description: Find out more about the Materials for Health Lab members!
 ---
 

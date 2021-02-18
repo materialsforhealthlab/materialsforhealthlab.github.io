@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: Find out about our published work...
 cover-img:
-  - '/img/cover_img_hfm.jpg': "Macromolecular Bioscience Cover Image"
+  - '/img/patrick-tomasso_edit.jpg': "Photo by Patrick Tomass on Unsplash"
 share-description: Read the lastest published work of the Materials for Health Lab.
 ---
 
