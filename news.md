@@ -7,6 +7,10 @@ cover-img:
 share-description: Latest news from the Materials for Health Lab!
   
 ---
+* **Feb 2021:** Our hydrogel forming microneedle review is now the [cover image](https://onlinelibrary.wiley.com/journal/16165195) of Macromolecular Bioscience! Great artwork Joe!
+
+* **Feb 2021:** Welcome to the group James and Mark, they are going to work on 3D printing microneedles as part of their MEng research project!
+  
 * **Jan 2021:** We have an exciting opportunity to come and work with us on our MIMIC project, see [here](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8036) for more details and how to apply.
 
 * **Jan 2021:** Welcome Dan!! We are very happy you are working with us and excited for the project ahead. Dan has recently completed his PhD at Loughborough and will be working on the CRUK project with Dr Sandhya Moise (Bath) and Dr Paul Roach (Loughborough).
