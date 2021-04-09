@@ -7,28 +7,7 @@ cover-img:
 share-description: Find out more about the Materials for Health Lab members!
 ---
 
-## Current Members
-
-
-<div class="container">
-<div class="row">&nbsp;</div>
-	
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/Leese H 29668-0334_Dept photo_BW.jpg" class="img-responsive" alt="Dr Hannah Leese" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> <a href="https://researchportal.bath.ac.uk/en/persons/hannah-leese"> Dr Hannah Leese </a> <br>
-		Lecturer in Chemical Engineering <br>
-		<p style="color:black;font-size:16px;">Hannah joined the Department of Chemical Engineering at Bath as Prize Fellow in Advanced Bio-separations in 2018 and is now a Lecturer in the Department. Before rejoining Bath she held post-doc positions in the Department of Chemistry at <a href="https://www.imperial.ac.uk/nanostructures-and-composites"> Imperial College London  </a> and in the <a href="https://www.nanomedicinelab.com/"> Nanomedicine Lab </a> at the University of Manchester. She completed her undergraduate degree in Chemistry at the University of York and her PhD in Chemical Engineering under the supervision of Prof Davide Mattia at the University of Bath. </p>
-		</p>
-	</div>
-</div>
-
-<hr>
-
-</div>
+## Current Members (in random order)
 
 <div class="container">
 <div class="row">&nbsp;</div>
@@ -48,10 +27,45 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <hr>
 
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/Leese H 29668-0334_Dept photo_BW.jpg" class="img-responsive" alt="Dr Hannah Leese" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/hannah-leese"> Dr Hannah Leese (Group Lead) </a> <br>
+		Lecturer in Chemical Engineering <br>
+		<p style="color:black;font-size:16px;">Hannah joined the Department of Chemical Engineering at Bath as Prize Fellow in Advanced Bio-separations in 2018 and is now a Lecturer in the Department. Before rejoining Bath she held post-doc positions in the Department of Chemistry at <a href="https://www.imperial.ac.uk/nanostructures-and-composites"> Imperial College London  </a> and in the <a href="https://www.nanomedicinelab.com/"> Nanomedicine Lab </a> at the University of Manchester. She completed her undergraduate degree in Chemistry at the University of York and her PhD in Chemical Engineering. Hannah is dedicated to bridging disciplines to tackle sustainable healthcare challenges throughout her research and teaching. </p>
+		</p>
+	</div>
 </div>
-<div class="container">
-<div class="row">&nbsp;</div>
-	
+
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/Dan.jpg" class="img-responsive" alt="Dr Daniel Merryweather" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a> Dr Daniel Merryweather </a> <br>
+		Specialist Technician in Chemical Engineering <br>
+		<p style="color:black;font-size:16px;">Dan is a recent PhD graduate of the EPSRC Regenerative Medicine DTC with a multidisciplinary background developing microscale platforms for neuromuscular tissue engineering. In this work he has developed a 3D neuromuscular tissue model and assayed the structure of collagen hydrogels by infrared spectroscopy and electron microscopy. Dan is currently working on the CRUK project, developing a microfluidic device to detect early-stage ovarian cancers from isolated vesicles. Dan completed his MSc in Tissue Engineering at the University of Keele generating patterned surface gradients of morphogenic proteins such as Wnt.  </p>  
+		 </p>
+	</div>
+</div>
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/HJ.jpg" class="img-responsive" alt="Harindi Jayakody" /></a>
+	</div>
+	<div class="col-md-9">
+	<p> <a href="https://linkedin.com/in/harindi-jayakody-656940130"> Harindi Jayakody </a> <br>
+		Industrial PhD Student (2019-) <br>
+		<p style="color:black;font-size:16px;">Harindi is a current PhD student working on developing HIV viral load devices. She is an industrially based PhD student and is working as a scientist at Erba Molecular. Her project is dedicated towards developing a cost-effective, robust, quantitative HIV viral load device for application in low resource settings. Harindi joined the University of Bath in 2019 after obtaining an integrated masters in molecular biology and biochemistry from the University of Sheffield. Her MSc project was focused on developing a semi-quantitative assay for HIV viral load monitoring.  </p>  
+		 </p>
+	</div>
+</div>
+<hr>	
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -81,12 +95,12 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/HJ.jpg" class="img-responsive" alt="Harindi Jayakody" /></a>
+		<img src="/img/AK.jpg" class="img-responsive" alt="Dr Antonios Keirouz" /></a>
 	</div>
 	<div class="col-md-9">
-	<p> <a href="https://linkedin.com/in/harindi-jayakody-656940130"> Harindi Jayakody </a> <br>
-		Industrial PhD Student (2019-) <br>
-		<p style="color:black;font-size:16px;">Harindi is a current PhD student working on developing HIV viral load devices. She is an industrially based PhD student and is working as a scientist at Erba Molecular. Her project is dedicated towards developing a cost-effective, robust, quantitative HIV viral load device for application in low resource settings. Harindi joined the University of Bath in 2019 after obtaining an integrated masters in molecular biology and biochemistry from the University of Sheffield. Her MSc project was focused on developing a semi-quantitative assay for HIV viral load monitoring.  </p>  
+		<p> <a href="https://www.linkedin.com/in/tonykeirouz/"> Dr Antonios Keirouz </a> <br>
+		PDRA MIMIC-nano (2021-) <br>
+		<p style="color:black;font-size:16px;">Tony joined the University of Bath in 2021, currently working on Dr Leese’s EPSRC-funded project focusing on the development of molecularly imprinted conductive nanoneedle sensors for sepsis. He holds a PhD in Engineering from the <a href="https://www.eng.ed.ac.uk/research/institutes/imp/themes"> University of Edinburgh </a> in collaboration with the <a href="https://www.empa.ch/web/empa/s400"> Swiss Federal Laboratory for Material Science and Technology </a> (Empa), an ETH Domain institute, and a First Class Honours in Cell and Molecular Biology from <a href="https://www.eng.ed.ac.uk/research/institutes/imp/themes"> Heriot-Watt University</a>. Dr Keirouz has worked closely with scientists, engineers and clinicians on a wide range of projects, including electrospun biomaterials for wound healing, drug-eluting antimicrobial meshes for hernia repair, nanofibers for biosensing, stem cell-based gene therapies for glioblastoma, identification of DNA methylation regions in cervical cancer, and hepatic nanotoxicology. </p>  
 		 </p>
 	</div>
 </div>
@@ -100,20 +114,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	<div class="col-md-9">
 		<p> <a> Meltem Agar </a> <br>
 		C3Bio PhD Student (2020-) <br>
-		<p style="color:black;font-size:16px;">Meltem obtained her BSc and MSc degrees in Physics from Marmara University and Yildiz Technical University in 2012 and 2015, respectively. Her MSc project focused on developing biosensors for detection of heavy metal ions and bacteria in liquids. She is a current PhD student in the Electronic and Electrical Engineering Department working on the ‘’Development of Molecularly Imprinted Polymer Based Sensor Arrays for Detection of Pathogenic Bacteria’’ supervised by Dr Pedro Estrela and co-supervised by Dr Hannah Leese and Dr Maisem Laabei. With this study, it is aimed to detect bacteria harmful to human health such as E. coli, K. pneumoniae in water using molecularly imprinted polymer based sensors.  </p>  
-		 </p>
-	</div>
-</div>
-<hr>
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/Dan.jpg" class="img-responsive" alt="Dr Daniel Merryweather" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> <a> Dr Daniel Merryweather </a> <br>
-		Specialist Technician in Chemical Engineering <br>
-		<p style="color:black;font-size:16px;">Dan is a recent PhD graduate of the EPSRC Regenerative Medicine DTC with a multidisciplinary background developing microscale platforms for neuromuscular tissue engineering. In this work he has developed a 3D neuromuscular tissue model and assayed the structure of collagen hydrogels by infrared spectroscopy and electron microscopy. Dan is currently working on the CRUK project, developing a microfluidic device to detect early-stage ovarian cancers from isolated vesicles. Dan completed his MSc in Tissue Engineering at the University of Keele generating patterned surface gradients of morphogenic proteins such as Wnt.  </p>  
+		<p style="color:black;font-size:16px;">Meltem obtained her BSc and MSc degrees in Physics from Marmara University and Yildiz Technical University in 2012 and 2015, respectively. Her MSc project focused on developing biosensors for detection of heavy metal ions and bacteria in liquids. She is a current PhD student in the Electronic and Electrical Engineering Department working on the ‘’Development of Molecularly Imprinted Polymer Based Sensor Arrays for Detection of Pathogenic Bacteria’’ supervised by Dr Pedro Estrela and co-supervised by Dr Hannah Leese and Dr Maisem Laabei. With this study, it is aimed to detect bacteria harmful to human health such as E. coli, K. pneumoniae in water using molecularly imprinted polymer based sensors. </p>  
 		 </p>
 	</div>
 </div>
@@ -123,7 +124,6 @@ share-description: Find out more about the Materials for Health Lab members!
 * Ria Atri – CSCT EPSRC PhD Student (2016-)
 * Jess Hines – CSCT EPSRC-Phosphonics PhD student (Oct 2019-)
 * Bo Zhu – PhD Student (Oct 2019-)
-
 
 <hr>
 
