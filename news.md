@@ -7,6 +7,8 @@ cover-img:
 share-description: Latest news from the Materials for Health Lab!
   
 ---
+* **Apr 2021:** Welcome to the MfH Lab [Dr Antonios Keirouz](https://www.linkedin.com/in/tonykeirouz/)! Dr Keirouz recently completed his PhD at the University of Edinburgh and is now joining us to work on our EPSRC MIMIC-nano project, welcome to the team Tony, we are very happy you joined us! 
+
 * **Feb 2021:** Our hydrogel forming microneedle review is now the [cover image](https://onlinelibrary.wiley.com/journal/16165195) of Macromolecular Bioscience! Great artwork Joe!
 
 * **Feb 2021:** Welcome to the group James and Mark, they are going to work on 3D printing microneedles as part of their MEng research project!
