@@ -17,7 +17,6 @@ Keep up to date here with current open positions in the lab for postdoctoral res
  
 #### PhD Studentships
 
-* We have an exciting PhD opportunity to join the joint PhD Programme with the CSCT Bath and Monash University, closing date 11th April, [click here for more details about the project and to apply](https://www.findaphd.com/phds/project/peptide-polymer-fibres-novel-structured-syntheses-and-applications/?p130901).
 * There are useful links below for potential funding routes.
 
 <hr>

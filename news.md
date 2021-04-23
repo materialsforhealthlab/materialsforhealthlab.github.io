@@ -7,7 +7,9 @@ cover-img:
 share-description: Latest news from the Materials for Health Lab!
   
 ---
-* **Apr 2021:** Welcome to the MfH Lab [Dr Antonios Keirouz](https://www.linkedin.com/in/tonykeirouz/)! Dr Keirouz recently completed his PhD at the University of Edinburgh and is now joining us to work on our EPSRC MIMIC-nano project, welcome to the team Tony, we are very happy you joined us! 
+* **Apr 2021:** [Yasemin](https://www.linkedin.com/in/yasemin-mustafa-b12106150/?originalSubdomain=uk) and [Emma](https://www.csct.ac.uk/people/emma-daniels/) present at the [WESBath - University of Bath Student Women's Engineering Society](https://www.facebook.com/pg/wesbath/photos/?ref=page_internal) event inspiring the next generation of engineering PhD students! Capturing some important words and thoughts from Yasemin *"Tonight I will be participating at the WES function, both delivering and listening to all the cutting-edge technologies from self-healing concrete to biosensor development being developed from different areas within the Department of Engineering. A panel discussion will be held whereby we acknowledge the work being carried out by PhD students giving those that are considering studying at PhD level an insight into the discipline. It is hoped that this function will serve as an empowering platform for the underrepresented community of women in engineering".*
+
+* **Apr 2021:** Welcome to the MfH Lab [Dr Antonios Keirouz](https://www.linkedin.com/in/tonykeirouz/)! Dr Keirouz recently completed his PhD at the University of Edinburgh and is now joining us to work on our [EPSRC MIMIC-nano project](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V010859/1), welcome to the team Tony, we are very happy you joined us! 
 
 * **Feb 2021:** Our hydrogel forming microneedle review is now the [cover image](https://onlinelibrary.wiley.com/journal/16165195) of Macromolecular Bioscience! Great artwork Joe!
 
