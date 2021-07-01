@@ -13,7 +13,7 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* We have a really exciting opportunity to join our Manufacturing in Hospital: BioMed 4.0 Team, please see [here](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8417) for further details and how to apply. 
+* We have TWO really exciting opportunities to join our Manufacturing in Hospital: BioMed 4.0 Team: a 2-year PDRA post, for further details and how to apply see [here](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8417) and a 3-year PDRA post, further details and how to apply see [here](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8425).
  
 #### PhD Studentships
 
