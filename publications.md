@@ -11,6 +11,8 @@ share-description: Read the lastest published work of the Materials for Health L
 
 **2021**
 
+H. Leese, M. Durailingam, T. Roffe, R. Atri "[Graphene Oxide Composite Fibres for Therapeutic Fabrics](https://iopscience.iop.org/article/10.1088/2515-7639/ac114c)" Journal of Physics: Materials, 2021, doi.org/10.1088/2515-7639/ac114c
+
 S. Hongthong, H. Leese,  M. Allen, C. Chuck "[Assessing the Conversion of Various Nylon Polymers in the Hydrothermal Liquefaction of Macroalgae](https://www.mdpi.com/2076-3298/8/4/34)" Environments, 2021, 8, 4, 34
 
 J. Turner  L. White, P. Estrela,  H. Leese "[Hydrogel‐Forming Microneedles: Current Advancements and Future Trends](https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000307)" Macromolecular Bioscience, 2021, 21, 2, 2000307
