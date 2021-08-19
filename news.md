@@ -8,6 +8,8 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Aug 2021:** Congratulations to Harindi for publishing her review paper [Molecular Diagnostics in the Era of COVID-19](https://pubs.rsc.org/en/content/articlepdf/2021/AY/D1AY00947H). Great work!
+
 * **Jul 2021:** Recent work on therapeutic graphene oxide fibres [just published](https://iopscience.iop.org/article/10.1088/2515-7639/ac114c) in *J Phys Materials*, as part of the Special Issue Focus on Women's Perspectives in Materials Science: 2D Materials.
 
 * **Jun 2021:** Happy International Women in Engineering Day! Sandhya and I feature on [CRUK Twitter](https://twitter.com/CRUKresearch/status/1407686912727556096) to talk about our CRUK Primer award and how we are utilising engineering to advance the early detection of ovarian cancer.

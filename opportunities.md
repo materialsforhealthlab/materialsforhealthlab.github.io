@@ -13,10 +13,11 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* We have TWO really exciting opportunities to join our Manufacturing in Hospital: BioMed 4.0 Team: a 2-year PDRA post, for further details and how to apply see [here](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8417) and a 3-year PDRA post, further details and how to apply see [here](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8425).
+* Short-term post-doc in our CRUK exosome project - please get in touch directly if interested.
  
 #### PhD Studentships
 
+* Two Competition Funded PhD Projects available, in our [exosome research for ovarian cancer](https://www.findaphd.com/phds/project/exosome-based-diagnostic-device-for-early-cancer-detection/?p133900) and [adaptive membranes](https://www.findaphd.com/phds/project/reactive-and-adaptive-separations-to-enable-sustainable-chemistry/?p133908)
 * There are useful links below for potential funding routes.
 
 <hr>
