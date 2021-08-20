@@ -8,6 +8,8 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Aug 2021:** Congratulations to Emma and Yasemin, for their awesome work on molecularly imprinted polymers recently published in ACS Applied Bio Materials, check it out here... [Optimization of Cortisol-Selective Molecularly Imprinted Polymers Enabled by Molecular Dynamics Simulations](https://pubs.acs.org/doi/pdf/10.1021/acsabm.1c00774)
+
 * **Aug 2021:** Congratulations to Harindi for publishing her review paper [Molecular Diagnostics in the Era of COVID-19](https://pubs.rsc.org/en/content/articlepdf/2021/AY/D1AY00947H). Great work!
 
 * **Jul 2021:** Recent work on therapeutic graphene oxide fibres [just published](https://iopscience.iop.org/article/10.1088/2515-7639/ac114c) in *J Phys Materials*, as part of the Special Issue Focus on Women's Perspectives in Materials Science: 2D Materials.
