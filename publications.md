@@ -11,6 +11,8 @@ share-description: Read the lastest published work of the Materials for Health L
 
 **2021**
 
+E. Daniels, Y. Mustafa, C. Herdes, H. Leese, "[Optimization of Cortisol-Selective Molecularly Imprinted Polymers Enabled by Molecular Dynamics Simulations](https://pubs.acs.org/doi/pdf/10.1021/acsabm.1c00774)" ACS Applied Bio Materials, 2021, doi.org/10.1021/acsabm.1c00774
+
 H. Jayakody, G. Kiddle, S. Perera, L. Tisi, H. Leese, "[Molecular Diagnostics in the Era of COVID-19](https://pubs.rsc.org/en/content/articlepdf/2021/AY/D1AY00947H)" Analytical Methods, 2021, Advance Article, https://doi.org/10.1039/D1AY00947H
 
 H. Leese, M. Durailingam, T. Roffe, R. Atri "[Graphene Oxide Composite Fibres for Therapeutic Fabrics](https://iopscience.iop.org/article/10.1088/2515-7639/ac114c)" Journal of Physics: Materials, 2021, doi.org/10.1088/2515-7639/ac114c
