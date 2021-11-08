@@ -43,7 +43,7 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/OD_photo_.jpg" class="img-responsive" alt="Olivia Dickinson" /></a>
+		<img src="/img/OD_photo.jpg" class="img-responsive" alt="Olivia Dickinson" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a> Olivia Dickinson </a> <br>
