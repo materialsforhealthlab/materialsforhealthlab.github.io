@@ -8,6 +8,8 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Oct 2021:** We are very happy to welcome [Olivia](https://www.linkedin.com/in/olivia-faye-dickinson-34657b171) to the group. Olivia has recently started her PhD in the area of peptide fibre development towards textile sustainability through the joint Bath-Monash PhD programme. 
+
 * **Aug 2021:** Congratulations to Emma and Yasemin, for their awesome work on molecularly imprinted polymers recently published in ACS Applied Bio Materials, check it out here... [Optimization of Cortisol-Selective Molecularly Imprinted Polymers Enabled by Molecular Dynamics Simulations](https://pubs.acs.org/doi/pdf/10.1021/acsabm.1c00774)
 
 * **Aug 2021:** Congratulations to Harindi for publishing her review paper [Molecular Diagnostics in the Era of COVID-19](https://pubs.rsc.org/en/content/articlepdf/2021/AY/D1AY00947H). Great work!

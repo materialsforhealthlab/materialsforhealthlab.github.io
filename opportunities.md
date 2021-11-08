@@ -13,11 +13,10 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* Short-term post-doc in our CRUK exosome project - please get in touch directly if interested.
+* [Research Associate in Chemical Engineering and Machine Learning (2 yr fixed term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8417R) position - closing date 15th Nov 2021
  
 #### PhD Studentships
 
-* Two Competition Funded PhD Projects available, in our [exosome research for ovarian cancer](https://www.findaphd.com/phds/project/exosome-based-diagnostic-device-for-early-cancer-detection/?p133900) and [adaptive membranes](https://www.findaphd.com/phds/project/reactive-and-adaptive-separations-to-enable-sustainable-chemistry/?p133908)
 * There are useful links below for potential funding routes.
 
 <hr>
