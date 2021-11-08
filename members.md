@@ -43,12 +43,12 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/Dan.jpg" class="img-responsive" alt="Dr Daniel Merryweather" /></a>
+		<img src="/img/OD_photo_.jpg" class="img-responsive" alt="Olivia Dickinson" /></a>
 	</div>
 	<div class="col-md-9">
-		<p> <a> Dr Daniel Merryweather </a> <br>
-		Specialist Technician in Chemical Engineering <br>
-		<p style="color:black;font-size:16px;">Dan is a recent PhD graduate of the EPSRC Regenerative Medicine DTC with a multidisciplinary background developing microscale platforms for neuromuscular tissue engineering. In this work he has developed a 3D neuromuscular tissue model and assayed the structure of collagen hydrogels by infrared spectroscopy and electron microscopy. Dan is currently working on the CRUK project, developing a microfluidic device to detect early-stage ovarian cancers from isolated vesicles. Dan completed his MSc in Tissue Engineering at the University of Keele generating patterned surface gradients of morphogenic proteins such as Wnt.  </p>  
+		<p> <a> Olivia Dickinson </a> <br>
+		CSCT-Monash PhD Student (2021-)  <br>
+		<p style="color:black;font-size:16px;">Olivia graduated with a first class honours in Materials Science and Engineering MEng from the University of Manchester. Olivia is now a member of the Materials for Health Lab research group and on the Global Chemical Engineering Bath-Monash programme with the CSCT at the University of Bath. Interests include reducing the environmental impacts of everyday textiles and optimising textiles and fibres used in medical care. Olivia is undertaking her research in the area of peptide polymer fibre development, focusing on peptide design for circular textiles.  </p>  
 		 </p>
 	</div>
 </div>
@@ -129,6 +129,7 @@ share-description: Find out more about the Materials for Health Lab members!
 
 ## Former Members
 
+* Dr Dan Merryweather - (2021) now PDRA on NeuChip Project - Loughborough University 
 * Sukanya Hongthong – Royal Thai Scholarship PhD Student (2017-2021)
 * Eleni Nicodemou– MSc Student (Feb-Sept 2020)
 * Sotia Neopyhtou – MSc Student (Feb-Sept 2020)
