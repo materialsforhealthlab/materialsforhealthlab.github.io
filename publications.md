@@ -4,10 +4,14 @@ title: Publications
 subtitle: Find out about our published work...
 cover-img:
   - '/img/patrick-tomasso_edit.jpg': "Photo by Patrick Tomass on Unsplash"
-share-description: Read the lastest published work of the Materials for Health Lab.
+share-description: Read the latest published work of the Materials for Health Lab.
 ---
 
 **Journal Articles**
+
+**2022**
+
+H. Leese, M. Tejkl, L. Vilar, L. Georgi, H. C. Yau, N. Rubio, E. Reixach, J. But, Q. Jiang, A. Bismarck, R. Hahn, M. Shaffer, "[High-k dielectric screen-printed inks for mechanical energy harvesting devices](https://pubs.rsc.org/en/content/articlelanding/2022/MA/D1MA00661D)" Materials Advances, 2022, doi.org/10.1039/D1MA00661D
 
 **2021**
 
