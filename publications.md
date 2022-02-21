@@ -15,11 +15,13 @@ H. Leese, M. Tejkl, L. Vilar, L. Georgi, H. C. Yau, N. Rubio, E. Reixach, J. But
 
 **2021**
 
-E. Daniels, Y. Mustafa, C. Herdes, H. Leese, "[Optimization of Cortisol-Selective Molecularly Imprinted Polymers Enabled by Molecular Dynamics Simulations](https://pubs.acs.org/doi/pdf/10.1021/acsabm.1c00774)" ACS Applied Bio Materials, 2021, doi.org/10.1021/acsabm.1c00774
+L. Jabban and H. Leese "[Preparing your figures for…: Publication: mastering the show in Scientific ‘Show and Tells’](https://portlandpress.com/biochemist/article/43/5/66/229947/Preparing-your-figures-for)" The Biochemist, 2021, 42, 5, 66-77
 
-H. Jayakody, G. Kiddle, S. Perera, L. Tisi, H. Leese, "[Molecular Diagnostics in the Era of COVID-19](https://pubs.rsc.org/en/content/articlepdf/2021/AY/D1AY00947H)" Analytical Methods, 2021, Advance Article, https://doi.org/10.1039/D1AY00947H
+E. Daniels, Y. Mustafa, C. Herdes, H. Leese, "[Optimization of Cortisol-Selective Molecularly Imprinted Polymers Enabled by Molecular Dynamics Simulations](https://pubs.acs.org/doi/pdf/10.1021/acsabm.1c00774)" ACS Applied Bio Materials, 2021, 4, 9, 7243-7253
 
-H. Leese, M. Durailingam, T. Roffe, R. Atri "[Graphene Oxide Composite Fibres for Therapeutic Fabrics](https://iopscience.iop.org/article/10.1088/2515-7639/ac114c)" Journal of Physics: Materials, 2021, doi.org/10.1088/2515-7639/ac114c
+H. Jayakody, G. Kiddle, S. Perera, L. Tisi, H. Leese, "[Molecular Diagnostics in the Era of COVID-19](https://pubs.rsc.org/en/content/articlepdf/2021/AY/D1AY00947H)" Analytical Methods, 2021, 12, 34, 3744-3763
+
+H. Leese, M. Durailingam, T. Roffe, R. Atri "[Graphene Oxide Composite Fibres for Therapeutic Fabrics](https://iopscience.iop.org/article/10.1088/2515-7639/ac114c)" Journal of Physics: Materials, 2021, 4, 4, 044010
 
 S. Hongthong, H. Leese,  M. Allen, C. Chuck "[Assessing the Conversion of Various Nylon Polymers in the Hydrothermal Liquefaction of Macroalgae](https://www.mdpi.com/2076-3298/8/4/34)" Environments, 2021, 8, 4, 34
 

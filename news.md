@@ -8,6 +8,12 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Jan 2022:** Hannah has been awarded the [IChemE Nicklin Medal](https://www.icheme.org/about-us/press-releases/chemical-engineering-excellence-recognised-through-icheme-medals-1/). The Nicklin Medal is an early careers award introduced in 2014 to recognise talented chemical engineering researchers. 
+
+* **Feb 2022:** Congratulations to Joe, Yasemin and Tony for their accepted abstract at the MRS Spring Meeting 2022. 
+
+* **Jan 2022:** We are very happy to welcome Dr Scott McCormick, specialist research technician and Sadeka Nujhat, PhD Researcher in Chemical Engineering to the group, a very big welcome to you both! Together with Dr Sandhya Moise, Dr Paul Roach, Dr Rebecca Bowen, we will be working on our CRUK project for the early detection of ovarian cancer. 
+
 * **Oct 2021:** We are very happy to welcome [Olivia](https://www.linkedin.com/in/olivia-faye-dickinson-34657b171) to the group. Olivia has recently started her PhD in the area of peptide fibre development towards textile sustainability through the joint Bath-Monash PhD programme. 
 
 * **Aug 2021:** Congratulations to Emma and Yasemin, for their awesome work on molecularly imprinted polymers recently published in ACS Applied Bio Materials, check it out here... [Optimization of Cortisol-Selective Molecularly Imprinted Polymers Enabled by Molecular Dynamics Simulations](https://pubs.acs.org/doi/pdf/10.1021/acsabm.1c00774)
