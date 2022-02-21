@@ -43,18 +43,15 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
  -->
 
 
-<br>
 
 
 ### Materials for Early Cancer Detection 
 -	Bioconjugation of biodegradable polymers for cancerous epitope detection
 
-<br>
 ### Materials for Minimally Invasive Detection
 -	Hydrogel microneedles development
 -	Imprinted conductive nanoneedles
 
-<br>
 
 ### Materials for Wound Dressings
 -	Therapeutic composite fibres
@@ -65,17 +62,21 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
 
 <hr>
 
+
 <div class="row">
-
-<div class="col-md-12">
-
-		<p> <a href="https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617"> <img src="/img/epsrc.jpg" class="img-responsive" alt="EPSRC" /></a> 
-		<a href="https://royalsociety.org"> <img src="/img/rsoc.jpg" class="img-responsive" alt="Royal Society" /></a> 
-<div class="col-md-4">
-<br>
- <a href="https://www.cancerresearchuk.org"> <img src="/img/cruk.jpg" class="img-responsive" alt="Cancer Research UK" /></a>  
- <div class="col-md-14">
- <a href="https://www.abbott.co.uk/for-professionals/diabetes-care.html"> <img src="/img/abbott.jpg" class="img-responsive" alt="Abbott Diabetes Ltd." /></a> <br>
-
+  <div class="col-md-3">
+    <a href="https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617"> <img src="/img/epsrc.jpg" class="img-responsive" alt="EPSRC" /></a> 
+  </div>
+  <div class="col-md-2">
+    <a href="https://royalsociety.org"> <img src="/img/rsoc.jpg" class="img-responsive" alt="Royal Society" /></a> 
+  </div>
+  <div class="col-md-3">
+    <a href="https://www.cancerresearchuk.org"> <img src="/img/cruk.jpg" class="img-responsive" alt="Cancer Research UK" /></a>  
+  </div>
+  <div class="col-md-3">
+    <a href="https://www.abbott.co.uk/for-professionals/diabetes-care.html"> <img src="/img/abbott.jpg" class="img-responsive" alt="Abbott Diabetes Ltd." /></a> 
+  </div>  
+</div>
 
 <hr>
+
