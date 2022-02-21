@@ -3,8 +3,8 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "https://materialsforhealthlab.org/"
-baseurl: ""
+#url: "https://materialsforhealthlab.org/"
+#baseurl: ""
 
 # --- Basic options --- #
 
