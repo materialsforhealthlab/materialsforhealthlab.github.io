@@ -63,10 +63,19 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
 <br>
 # Research Supported by:
 
-[EPSRC](https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617)
+<hr>
 
-Royal Society
+<div class="row">
 
-Cancer Research UK
+<div class="col-md-12">
 
-Abbott
+		<p> <a href="https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617"> <img src="/img/epsrc.jpg" class="img-responsive" alt="EPSRC" /></a> 
+		<a href="https://royalsociety.org"> <img src="/img/rsoc.jpg" class="img-responsive" alt="Royal Society" /></a> 
+<div class="col-md-4">
+<br>
+ <a href="https://www.cancerresearchuk.org"> <img src="/img/cruk.jpg" class="img-responsive" alt="Cancer Research UK" /></a>  
+ <div class="col-md-14">
+ <a href="https://www.abbott.co.uk/for-professionals/diabetes-care.html"> <img src="/img/abbott.jpg" class="img-responsive" alt="Abbott Diabetes Ltd." /></a> <br>
+
+
+<hr>

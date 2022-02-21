@@ -7,25 +7,11 @@ cover-img:
 share-description: Find out more about the Materials for Health Lab members!
 ---
 
-## Current Members (in random order)
+## Current Members
 
 <div class="container">
 <div class="row">&nbsp;</div>
 	
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/emma_photo.jpg" class="img-responsive" alt="Emma Daniels" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> <a> Emma Daniels </a> <br>
-		CSCT PhD Student (2018-) <br>
-		<p style="color:black;font-size:16px;">Emma graduated from the University of Nottingham in 2018 with a Masters degree in Chemistry. During her degree, Emma worked with Prof Neil Champness developing a novel [3]-rotaxane and investigating its use in catalysis and completed a computational project under the supervision of Prof Elena Besley, investigating the implantation of metal ions into carbon nanostructures using molecular dynamic simulations. Emma is currently in the second year of her integrated PhD on the CDT in Sustainable Chemical Technologies, co-supervised by <a href="https://www.buchardgroup.org/"> Dr Antoine Buchard </a> and <a href="https://researchportal.bath.ac.uk/en/persons/steve-parker"> Prof Steve Parker </a>. Her research is looking at the synthesis and computational design of sugar-derived polymers for application in bio-sensing to detect disease. In her spare time Emma enjoys being part of the dance society and practising yoga. </p>
-		</p>
-	</div>
-</div>
-
-<hr>
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -43,12 +29,39 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/OD_photo1.jpg" class="img-responsive" alt="Olivia Dickinson" /></a>
+		<img src="/img/emma_photo.jpg" class="img-responsive" alt="Emma Daniels" /></a>
 	</div>
 	<div class="col-md-9">
-		<p> <a> Olivia Dickinson </a> <br>
-		CSCT-Monash PhD Student (2021-)  <br>
-		<p style="color:black;font-size:16px;">Olivia graduated with a first class honours in Materials Science and Engineering MEng from the University of Manchester. Olivia is now a member of the Materials for Health Lab research group and on the Global Chemical Engineering Bath-Monash programme with the CSCT at the University of Bath. Interests include reducing the environmental impacts of everyday textiles and optimising textiles and fibres used in medical care. Olivia is undertaking her research in the area of peptide polymer fibre development, focusing on peptide design for circular textiles.  </p>  
+		<p> <a> Emma Daniels </a> <br>
+		CSCT PhD Student (2018-) <br>
+		<p style="color:black;font-size:16px;">Emma graduated from the University of Nottingham in 2018 with a Masters degree in Chemistry. During her degree, Emma worked with Prof Neil Champness developing a novel [3]-rotaxane and investigating its use in catalysis and completed a computational project under the supervision of Prof Elena Besley, investigating the implantation of metal ions into carbon nanostructures using molecular dynamic simulations. Emma is currently in the second year of her integrated PhD on the CDT in Sustainable Chemical Technologies, co-supervised by <a href="https://www.buchardgroup.org/"> Dr Antoine Buchard </a> and <a href="https://researchportal.bath.ac.uk/en/persons/steve-parker"> Prof Steve Parker </a>. Her research is looking at the synthesis and computational design of sugar-derived polymers for application in bio-sensing to detect disease. In her spare time Emma enjoys being part of the dance society and practising yoga. </p>
+		</p>
+	</div>
+</div>
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/YLM.jpg" class="img-responsive" alt="Yasemin Mustafa" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a href="https://uk.linkedin.com/in/yasemin-mustafa-b12106150"> Yasemin Mustafa </a> <br>
+		C3Bio PhD Student (2019-) <br>
+		<p style="color:black;font-size:16px;">Yasemin is a current PhD student working on "Multifunctional Devices for Rapid Point-of Diagnostics" co-supervised by <a href="https://researchportal.bath.ac.uk/en/persons/pedro-estrela"> Dr Pedro Estrela </a> and <a href="https://researchportal.bath.ac.uk/en/persons/despina-moschou"> Dr Despina Moschou </a>. This project is dedicated to the development of a novel multiplex platform biosensor device for the diagnosis of the onset of infection, with a specific focus on sepsis at the point-of-care to prevent the distribution of broad-spectrum antibiotics. Yasemin obtained a Chemistry (BSc) and a Chemical Research (MSc) from Queen Mary University of London with both degrees demonstrating a strong focus on biomaterials. The research projects concentrated on the synthesis of phosphate-based glasses for tissue engineering. </p>  
+		 </p>
+	</div>
+</div>
+
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/JT.jpg" class="img-responsive" alt="Joe Turner" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a> Joe Turner </a> <br>
+		Abbott PhD Student (2019-) <br>
+		<p style="color:black;font-size:16px;">Joe is a current PhD student working on the project titled: “Detect, Treat and Tell” (shortened) – developing polymeric responsive microneedle-based skin patches. This research project is EPSRC match-funded with Abbott and co-supervised by <a href="https://researchportal.bath.ac.uk/en/persons/pedro-estrela"> Dr Pedro Estrela </a> and Dr Michael Thatcher (Abbott). Joe joined the University of Bath in 2019 after obtaining a master’s degree in Biomedical Engineering (MEng) from Swansea University. During this time Joe worked on graphene biosensors in the Centre for NanoHealth and on novel acid soluble collagen foams for regenerative medicine. Joe’s interests include 3D printing which he uses to fabricate microneedles. </p>  
 		 </p>
 	</div>
 </div>
@@ -69,32 +82,6 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/YLM.jpg" class="img-responsive" alt="Yasemin Mustafa" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> <a href="https://uk.linkedin.com/in/yasemin-mustafa-b12106150"> Yasemin Mustafa </a> <br>
-		C3Bio PhD Student (2019-) <br>
-		<p style="color:black;font-size:16px;">Yasemin is a current PhD student working on "Multifunctional Devices for Rapid Point-of Diagnostics" co-supervised by <a href="https://researchportal.bath.ac.uk/en/persons/pedro-estrela"> Dr Pedro Estrela </a> and <a href="https://researchportal.bath.ac.uk/en/persons/despina-moschou"> Dr Despina Moschou </a>. This project is dedicated to the development of a novel multiplex platform biosensor device for the diagnosis of the onset of infection, with a specific focus on sepsis at the point-of-care to prevent the distribution of broad-spectrum antibiotics. Yasemin obtained a Chemistry (BSc) and a Chemical Research (MSc) from Queen Mary University of London with both degrees demonstrating a strong focus on biomaterials. The research projects concentrated on the synthesis of phosphate-based glasses for tissue engineering. </p>  
-		 </p>
-	</div>
-</div>
-<hr>
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/JT.jpg" class="img-responsive" alt="Joe Turner" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> <a> Joe Turner </a> <br>
-		Abbott PhD Student (2019-) <br>
-		<p style="color:black;font-size:16px;">Joe is a current PhD student working on the project titled: “Detect, Treat and Tell” (shortened) – developing polymeric responsive microneedle-based skin patches. This research project is EPSRC match-funded with Abbott and co-supervised by <a href="https://researchportal.bath.ac.uk/en/persons/pedro-estrela"> Dr Pedro Estrela </a> and Dr Michael Thatcher (Abbott). Joe joined the University of Bath in 2019 after obtaining a master’s degree in Biomedical Engineering (MEng) from Swansea University. During this time Joe worked on graphene biosensors in the Centre for NanoHealth and on novel acid soluble collagen foams for regenerative medicine. Joe’s interests include 3D printing which he uses to fabricate microneedles. </p>  
-		 </p>
-	</div>
-</div>
-<hr>
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="/img/AK.jpg" class="img-responsive" alt="Dr Antonios Keirouz" /></a>
 	</div>
 	<div class="col-md-9">
@@ -105,7 +92,20 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 </div>
 <hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/OD_photo1.jpg" class="img-responsive" alt="Olivia Dickinson" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a> Olivia Dickinson </a> <br>
+		CSCT-Monash PhD Student (2021-)  <br>
+		<p style="color:black;font-size:16px;">Olivia graduated with a first class honours in Materials Science and Engineering MEng from the University of Manchester. Olivia is now a member of the Materials for Health Lab research group and on the Global Chemical Engineering Bath-Monash programme with the CSCT at the University of Bath. Interests include reducing the environmental impacts of everyday textiles and optimising textiles and fibres used in medical care. Olivia is undertaking her research in the area of peptide polymer fibre development, focusing on peptide design for circular textiles.  </p>  
+		 </p>
+	</div>
 </div>
+
+<hr>
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
@@ -120,10 +120,26 @@ share-description: Find out more about the Materials for Health Lab members!
 </div>
 <hr>
 
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/SMc.jpg" class="img-responsive" alt="Dr Scott McCormick" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Dr Scott McCormick <br>
+		Specialist Research Technician <br>
+		<p style="color:black;font-size:16px;">Scott achieved his undergrad Honours degree in Nanotechnology from Flinders University in 2014, and his PhD in Biomaterials Engineering and Nanomedicine from the University of South Australia in 2018. In 2019 he travelled to the UK to pursue academic jobs, and in the last 3 years he has worked at the Universities of Bristol, Bath and Warwick. He is currently involved in a project with Dr Sandhya Moise and Dr Hannah Leese in the Chemical Engineering department, looking to integrate anodized aluminium oxide (AAO) membranes of different pore sizes into microfluidic devices, in order to size-sort cancer exosomes for more sensitive surface protein detection under fluorescence. </p>
+		</p>
+	</div>
+</div>
 
-* Ria Atri – CSCT EPSRC PhD Student (2016-)
-* Jess Hines – CSCT EPSRC-Phosphonics PhD student (Oct 2019-)
+<hr>
+</div>
+
+* Sadeka Nujhat – PhD Student (Jan 2022-)
 * Bo Zhu – PhD Student (Oct 2019-)
+* Jess Hines – CSCT EPSRC-Phosphonics PhD student (Oct 2019-)
+* Ria Atri – CSCT EPSRC PhD Student (2016-)
+
 
 <hr>
 
@@ -141,3 +157,4 @@ share-description: Find out more about the Materials for Health Lab members!
 * Maveendra Durailingam - MEng (Feb-Apr 2019)
 * Theo Roffe - MEng (Feb-Apr 2019)
 
+<hr>

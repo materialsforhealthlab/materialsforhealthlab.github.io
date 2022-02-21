@@ -13,7 +13,8 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* [Research Associate in Chemical Engineering and Machine Learning (2 yr fixed term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8417R) position - closing date 15th Nov 2021
+* Keep checking back here for opportunities to join the group.
+* Please contact the group if you are interesting in visiting the lab/fellowships
  
 #### PhD Studentships
 
