@@ -33,7 +33,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> <a> Emma Daniels </a> <br>
-		CSCT PhD Student (2018-) <br>
+		CSCT PhD Researcher (2018-) <br>
 		<p style="color:black;font-size:16px;">Emma graduated from the University of Nottingham in 2018 with a Masters degree in Chemistry. During her degree, Emma worked with Prof Neil Champness developing a novel [3]-rotaxane and investigating its use in catalysis and completed a computational project under the supervision of Prof Elena Besley, investigating the implantation of metal ions into carbon nanostructures using molecular dynamic simulations. Emma is currently in the second year of her integrated PhD on the CDT in Sustainable Chemical Technologies, co-supervised by <a href="https://www.buchardgroup.org/"> Dr Antoine Buchard </a> and <a href="https://researchportal.bath.ac.uk/en/persons/steve-parker"> Prof Steve Parker </a>. Her research is looking at the synthesis and computational design of sugar-derived polymers for application in bio-sensing to detect disease. In her spare time Emma enjoys being part of the dance society and practising yoga. </p>
 		</p>
 	</div>
@@ -46,7 +46,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://uk.linkedin.com/in/yasemin-mustafa-b12106150"> Yasemin Mustafa </a> <br>
-		C3Bio PhD Student (2019-) <br>
+		C3Bio PhD Researcher (2019-) <br>
 		<p style="color:black;font-size:16px;">Yasemin is a current PhD student working on "Multifunctional Devices for Rapid Point-of Diagnostics" co-supervised by <a href="https://researchportal.bath.ac.uk/en/persons/pedro-estrela"> Dr Pedro Estrela </a> and <a href="https://researchportal.bath.ac.uk/en/persons/despina-moschou"> Dr Despina Moschou </a>. This project is dedicated to the development of a novel multiplex platform biosensor device for the diagnosis of the onset of infection, with a specific focus on sepsis at the point-of-care to prevent the distribution of broad-spectrum antibiotics. Yasemin obtained a Chemistry (BSc) and a Chemical Research (MSc) from Queen Mary University of London with both degrees demonstrating a strong focus on biomaterials. The research projects concentrated on the synthesis of phosphate-based glasses for tissue engineering. </p>  
 		 </p>
 	</div>
@@ -60,7 +60,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> <a> Joe Turner </a> <br>
-		Abbott PhD Student (2019-) <br>
+		Abbott-EPSRC PhD Researcher (2019-) <br>
 		<p style="color:black;font-size:16px;">Joe is a current PhD student working on the project titled: “Detect, Treat and Tell” (shortened) – developing polymeric responsive microneedle-based skin patches. This research project is EPSRC match-funded with Abbott and co-supervised by <a href="https://researchportal.bath.ac.uk/en/persons/pedro-estrela"> Dr Pedro Estrela </a> and Dr Michael Thatcher (Abbott). Joe joined the University of Bath in 2019 after obtaining a master’s degree in Biomedical Engineering (MEng) from Swansea University. During this time Joe worked on graphene biosensors in the Centre for NanoHealth and on novel acid soluble collagen foams for regenerative medicine. Joe’s interests include 3D printing which he uses to fabricate microneedles. </p>  
 		 </p>
 	</div>
@@ -73,7 +73,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 	<p> <a href="https://linkedin.com/in/harindi-jayakody-656940130"> Harindi Jayakody </a> <br>
-		Industrial PhD Student (2019-) <br>
+		Industrial PhD Researcher (2019-) <br>
 		<p style="color:black;font-size:16px;">Harindi is a current PhD student working on developing HIV viral load devices. She is an industrially based PhD student and is working as a scientist at Erba Molecular. Her project is dedicated towards developing a cost-effective, robust, quantitative HIV viral load device for application in low resource settings. Harindi joined the University of Bath in 2019 after obtaining an integrated masters in molecular biology and biochemistry from the University of Sheffield. Her MSc project was focused on developing a semi-quantitative assay for HIV viral load monitoring.  </p>  
 		 </p>
 	</div>
@@ -99,7 +99,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> <a> Olivia Dickinson </a> <br>
-		CSCT-Monash PhD Student (2021-)  <br>
+		CSCT-Monash PhD Researcher (2021-)  <br>
 		<p style="color:black;font-size:16px;">Olivia graduated with a first class honours in Materials Science and Engineering MEng from the University of Manchester. Olivia is now a member of the Materials for Health Lab research group and on the Global Chemical Engineering Bath-Monash programme with the CSCT at the University of Bath. Interests include reducing the environmental impacts of everyday textiles and optimising textiles and fibres used in medical care. Olivia is undertaking her research in the area of peptide polymer fibre development, focusing on peptide design for circular textiles.  </p>  
 		 </p>
 	</div>
@@ -113,7 +113,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> <a> Meltem Agar </a> <br>
-		C3Bio PhD Student (2020-) <br>
+		C3Bio PhD Researcher (2020-) <br>
 		<p style="color:black;font-size:16px;">Meltem obtained her BSc and MSc degrees in Physics from Marmara University and Yildiz Technical University in 2012 and 2015, respectively. Her MSc project focused on developing biosensors for detection of heavy metal ions and bacteria in liquids. She is a current PhD student in the Electronic and Electrical Engineering Department working on the ‘’Development of Molecularly Imprinted Polymer Based Sensor Arrays for Detection of Pathogenic Bacteria’’ supervised by Dr Pedro Estrela and co-supervised by Dr Hannah Leese and Dr Maisem Laabei. With this study, it is aimed to detect bacteria harmful to human health such as E. coli, K. pneumoniae in water using molecularly imprinted polymer based sensors. </p>  
 		 </p>
 	</div>
@@ -133,20 +133,67 @@ share-description: Find out more about the Materials for Health Lab members!
 </div>
 
 <hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/SN.jpg" class="img-responsive" alt="Sadeka Nujhat" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Sadeka Nujhat <br>
+		PhD Researcher (Jan 2022-)<br>
+		<p style="color:black;font-size:16px;">Sadeka is currently a PhD researcher working on developing a microfluidic device for the early ovarian cancer detection, supervised by Dr Sandhya Moise and Dr Hannah Leese. This project focuses on the analysis of exosomes as biomarkers for cancer detection. Sadeka graduated in Biomedical Science (BSc) and Genomic Medicine (MSc) from Queen Mary University of London. For her MSc thesis, Sadeka analysed genomic data to establish potential genetic mutations that contribute to the development of familial acute myeloid leukaemia in the Barts Cancer Institute (BCI). She later joined BCI as a lab technician handling cancer clinical trial samples. </p>
+		</p>
+	</div>
 </div>
 
-* Sadeka Nujhat – PhD Student (Jan 2022-)
-* Bo Zhu – PhD Student (Oct 2019-)
-* Jess Hines – CSCT EPSRC-Phosphonics PhD student (Oct 2019-)
-* Ria Atri – CSCT EPSRC PhD Student (2016-)
+<hr>
 
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/BZ.jpg" class="img-responsive" alt="Bo Zhu" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Bo Zhu <br>
+		PhD Researcher (Oct 2019-)<br>
+
+		</p>
+	</div>
+</div>
+
+<hr>
+</div>
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/JH.jpg" class="img-responsive" alt="Jess Hines" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Jess Hines <br>
+		PhD Researcher (Oct 2019-)<br>
+		
+				</p>
+	</div>
+</div>
+
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/JH.jpg" class="img-responsive" alt="Ria Atri" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Ria Atri<br>
+		PhD Researcher (Oct 2016-)<br>
+		
+	</p>
+	</div>
+</div>
 
 <hr>
 
 ## Former Members
 
-* Dr Dan Merryweather - (2021) now PDRA on NeuChip Project - Loughborough University 
-* Sukanya Hongthong – Royal Thai Scholarship PhD Student (2017-2021)
+* Dr Dan Merryweather - Now PDRA on NeuChip Project - Loughborough University (2021)
+* Sukanya Hongthong – Royal Thai Scholarship PhD Researcher (2017-2021)
 * Eleni Nicodemou– MSc Student (Feb-Sept 2020)
 * Sotia Neopyhtou – MSc Student (Feb-Sept 2020)
 * Duangkamon Thasriphu – MEng (Feb-May 2020)
