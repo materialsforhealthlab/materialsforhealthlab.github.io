@@ -8,6 +8,8 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **8 March 2022:** **Happy International Women's Day!** As part, we are celebrating, reflecting and thanking the wonderful diversity of our brilliant lab members! Our research article has also been selected in [Wiley's Women in Polymer Science Virtual Issue](https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2642-4169.women-in-polymer-science)!
+ 
 * **Jan 2022:** Hannah has been awarded the [IChemE Nicklin Medal](https://www.icheme.org/about-us/press-releases/chemical-engineering-excellence-recognised-through-icheme-medals-1/). The Nicklin Medal is an early careers award introduced in 2014 to recognise talented chemical engineering researchers. 
 
 * **Feb 2022:** Congratulations to Joe, Yasemin and Tony for their accepted abstract at the MRS Spring Meeting 2022. 
