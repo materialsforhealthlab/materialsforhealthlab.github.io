@@ -11,7 +11,13 @@ share-description: Read the latest published work of the Materials for Health La
 
 **2022**
 
-H. Leese, M. Tejkl, L. Vilar, L. Georgi, H. C. Yau, N. Rubio, E. Reixach, J. But, Q. Jiang, A. Bismarck, R. Hahn, M. Shaffer, "[High-k dielectric screen-printed inks for mechanical energy harvesting devices](https://pubs.rsc.org/en/content/articlelanding/2022/MA/D1MA00661D)" Materials Advances, 2022, doi.org/10.1039/D1MA00661D
+Y. Mustafa, A. Keirouz, H. Leese "[Molecularly imprinted polymers in diagnostics: accessing analytes in biofluids](https://pubs.rsc.org/en/content/articlehtml/2022/tb/d2tb00703g)" Journal of Materials Chemistry B, 2022, DOI: 10.1039/d2tb00703g
+
+L. Govada, N. Rubio, E. Saridakis, K. Balaskandan, H. Leese, Y. Li, B. Wang, M. Shaffer, N.Chayen, "[Graphene-Based Nucleants for Protein Crystallization](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202202596)" Advanced Functional Materials, 2022, DOI: 10.1002/adfm.202202596
+
+H. Jayakody, D. Rowland, C. Pereira, R. Blackwell, T. Lasota, M. Laverick, L. Tisi, H. Leese, A. Walsham, "[Development of a high sensitivity RT-PCR assay for detection of SARS-CoV-2 in individual and pooled nasopharyngeal samples](https://www.nature.com/articles/s41598-022-09254-1)" Scientific Reports, 2022, 12, 5369
+
+H. Leese, M. Tejkl, L. Vilar, L. Georgi, H. C. Yau, N. Rubio, E. Reixach, J. Buk, Q. Jiang, A. Bismarck, R. Hahn, M. Shaffer, "[High-k dielectric screen-printed inks for mechanical energy harvesting devices](https://pubs.rsc.org/en/content/articlelanding/2022/MA/D1MA00661D)" Materials Advances, 2022, 3, 1780-1790
 
 **2021**
 

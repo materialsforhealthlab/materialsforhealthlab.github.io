@@ -3,7 +3,7 @@ layout: page
 title: Members
 subtitle: Find out more about the members of the lab!
 cover-img:
-  - '/img/gp_photo_2.jpg': "Group Photo Feb 2020 to Dec 2020 - Lab to Lockdown meetings!"
+  - '/img/gp_jul_2022.jpg': "Group Photo July 2022"
 share-description: Find out more about the Materials for Health Lab members!
 ---
 
@@ -118,19 +118,7 @@ share-description: Find out more about the Materials for Health Lab members!
 		 </p>
 	</div>
 </div>
-<hr>
 
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/SMc.jpg" class="img-responsive" alt="Dr Scott McCormick" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> Dr Scott McCormick <br>
-		Specialist Research Technician <br>
-		<p style="color:black;font-size:16px;">Scott achieved his undergrad Honours degree in Nanotechnology from Flinders University in 2014, and his PhD in Biomaterials Engineering and Nanomedicine from the University of South Australia in 2018. In 2019 he travelled to the UK to pursue academic jobs, and in the last 3 years he has worked at the Universities of Bristol, Bath and Warwick. He is currently involved in a project with Dr Sandhya Moise and Dr Hannah Leese in the Chemical Engineering department, looking to integrate anodized aluminium oxide (AAO) membranes of different pore sizes into microfluidic devices, in order to size-sort cancer exosomes for more sensitive surface protein detection under fluorescence. </p>
-		</p>
-	</div>
-</div>
 
 <hr>
 
@@ -161,37 +149,26 @@ share-description: Find out more about the Materials for Health Lab members!
 </div>
 
 <hr>
-</div>
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/JH.jpg" class="img-responsive" alt="Jess Hines" /></a>
+		<img src="/img/BZ.jpg" class="img-responsive" alt="Jess Hines" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> Jess Hines <br>
 		PhD Researcher (Oct 2019-)<br>
-		
-				</p>
+
+		</p>
 	</div>
 </div>
-
-<hr>
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/JH.jpg" class="img-responsive" alt="Ria Atri" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> Ria Atri<br>
-		PhD Researcher (Oct 2016-)<br>
-		
-	</p>
-	</div>
 </div>
+
 
 <hr>
 
 ## Former Members
 
+* Dr Ria Atri - PhD Researcher (2016-2022)
+* Dr Scott McCormick - Microfluidics Engineer - GenomeKey (2022)
 * Dr Dan Merryweather - Now PDRA on NeuChip Project - Loughborough University (2021)
 * Sukanya Hongthong – Royal Thai Scholarship PhD Researcher (2017-2021)
 * Eleni Nicodemou– MSc Student (Feb-Sept 2020)
