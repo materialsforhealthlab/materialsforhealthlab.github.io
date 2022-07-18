@@ -8,6 +8,22 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Jul 2022:** Congratulations Yasemin and Tony on the publication of your molecularly imprinted polymers review, featuring in the [Emerging Researchers Special Issue in the Journal of Materials Chemistry B](https://pubs.rsc.org/en/content/articlelanding/2022/tb/d2tb00703g). 
+
+* **Jun 2022:** Olivia and Emma present their research at the [CSCT Summer Showcase](https://www.csct.ac.uk/csct-summer-showcase-2022/)! Emma also won the Janet Scott Prize for Collaborative Research in Sustainability - Congratulations Emma! 
+
+* **Jun 2022:** Joe presented his research at the [Images of Research 2022 Competition](https://blogs.bath.ac.uk/publicengagement/2022/06/23/announcing-the-winners-of-the-images-of-research-2022-competition/), and came runner up in the Health and Wellbeing category, congratulations Joe! 
+
+* **Jun 2022:** Congratulations Harindi! Harindi was runner up for the [University's Vice Chancellor's Outreach Award for Impact](https://blogs.bath.ac.uk/undergraduate-admissions-and-outreach/2022/06/24/vice-chancellors-outreach-awards-2022/). Fantastic! 
+
+* **Jun 2022:** Congratulations Harindi! Harindi won the [University of Bath's Three-Minute Thesis](https://www.bath.ac.uk/campaigns/explain-your-phd-in-just-three-minutes/). Fantastic news and a wonderful event, well done Harindi!
+
+* **May 2022:** The Materials for Health Lab present at the MRS Spring Meeting 2022, Hawaii. Joe, Yasemin and Tony all presented their research - well done, we had a fantastic time. Thank you MRS 2022. 
+
+* **Apr 2022:** The Materials for Health Lab helped out at the [Bath City Farm](http://bathcityfarm.org.uk/venue-hire/team-building-days/) during their team building afternoon. We planted a tree, helped to clear areas for planting in the new cafe area, fed the animals and more, thank you to MfHL members and Bath City Farm! 
+
+* **Mar 2022:** Congratulations Harindi on your recent publication in [Scientific Reports](https://www.nature.com/articles/s41598-022-09254-1)!
+ 
 * **8 March 2022:** **Happy International Women's Day!** As part, we are celebrating, reflecting and thanking the wonderful diversity of our brilliant lab members! Our research article has also been selected in [Wiley's Women in Polymer Science Virtual Issue](https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2642-4169.women-in-polymer-science)!
  
 * **Jan 2022:** Hannah has been awarded the [IChemE Nicklin Medal](https://www.icheme.org/about-us/press-releases/chemical-engineering-excellence-recognised-through-icheme-medals-1/). The Nicklin Medal is an early careers award introduced in 2014 to recognise talented chemical engineering researchers. 
