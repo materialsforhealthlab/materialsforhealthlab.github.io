@@ -8,6 +8,18 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Feb 2023:** A celebratory February! Congratulations Emma on the publication of your self-healing organogel paper, great work - check it out [here](https://pubs.acs.org/doi/10.1021/acsaem.2c03937)
+
+* **Feb 2023:** Big welcome to Andrew, who is joining the group for his MEng research project, looking at how we can process lab plastic in greener ways. Looking forward to working with you Andrew! 
+
+* **Feb 2023:** Big Congratulations Yasemin on the publication of your molecularly imprinting polymers - check it out [here](https://pubs.acs.org/doi/10.1021/acsomega.2c08127) 
+
+* **Feb 2023:** Huge welcome to Dr Nael Berri who is joining the group as a post-doctoral research associate working on our Manufacturing in Hospital: BioMed 4.0 project! Welcome to the team Nael! 
+
+* **Dec 2022:** Congratulations Tony, Yasemin and Joe on the acceptance of your [conductive microneedles](https://onlinelibrary.wiley.com/doi/10.1002/smll.202206301) paper in Small! 
+
+* **Dec 2022:** Tony and Hannah present the groups research at Euromembrane 2022, Sorrento.
+
 * **Jul 2022:** Congratulations Yasemin and Tony on the publication of your molecularly imprinted polymers review, featuring in the [Emerging Researchers Special Issue in the Journal of Materials Chemistry B](https://pubs.rsc.org/en/content/articlelanding/2022/tb/d2tb00703g). 
 
 * **Jun 2022:** Olivia and Emma present their research at the [CSCT Summer Showcase](https://www.csct.ac.uk/csct-summer-showcase-2022/)! Emma also won the Janet Scott Prize for Collaborative Research in Sustainability - Congratulations Emma! 

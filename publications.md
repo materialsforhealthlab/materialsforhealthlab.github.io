@@ -9,7 +9,17 @@ share-description: Read the latest published work of the Materials for Health La
 
 **Journal Articles**
 
+**2023**
+
+E. Daniels, James Runge, Matthew Oshinowo, H. Leese, A. Buchard "[Cross-Linking of Sugar-Derived Polyethers and Boronic Acids for Renewable, Self-Healing, and Single-Ion Conducting Organogel Polymer Electrolytes](https://pubs.acs.org/doi/10.1021/acsaem.2c03937)" Applied Energy Materials, 2023, DOI: 10.1021/acsaem.2c03937
+
+Y. Mustafa, H. Leese "[Fabrication of a Lactate-Specific Molecularly Imprinted Polymer toward Disease Detection](https://pubs.acs.org/doi/10.1021/acsomega.2c08127)" ACS Omega, DOI: 10.1021/acsomega.2c08127 
+
+A. Keirouz, Y. Mustafa, J. Turner, U. Jungwirth, F. Marken, H. Leese "[Conductive polymer-coated 3D printed microneedles: biocompatible platforms for minimally invasive biosensing interfaces](https://onlinelibrary.wiley.com/doi/10.1002/smll.202206301)" Small, 2023, c 10.1002/smll.202206301
+
 **2022**
+
+M. Bayazit, HC. Yau, H. Leese, WJ. Lee, M. Shaffer "[Mono-Acetylenes as New Crosslinkers for All-Carbon Living Charge Carbon Nanotubide Organogels](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202202469)" Chemistry Select, 2022, DOI: 10.1002/slct.202202469
 
 Y. Mustafa, A. Keirouz, H. Leese "[Molecularly imprinted polymers in diagnostics: accessing analytes in biofluids](https://pubs.rsc.org/en/content/articlehtml/2022/tb/d2tb00703g)" Journal of Materials Chemistry B, 2022, DOI: 10.1039/d2tb00703g
 
@@ -17,7 +27,7 @@ L. Govada, N. Rubio, E. Saridakis, K. Balaskandan, H. Leese, Y. Li, B. Wang, M. 
 
 H. Jayakody, D. Rowland, C. Pereira, R. Blackwell, T. Lasota, M. Laverick, L. Tisi, H. Leese, A. Walsham, "[Development of a high sensitivity RT-PCR assay for detection of SARS-CoV-2 in individual and pooled nasopharyngeal samples](https://www.nature.com/articles/s41598-022-09254-1)" Scientific Reports, 2022, 12, 5369
 
-H. Leese, M. Tejkl, L. Vilar, L. Georgi, H. C. Yau, N. Rubio, E. Reixach, J. Buk, Q. Jiang, A. Bismarck, R. Hahn, M. Shaffer, "[High-k dielectric screen-printed inks for mechanical energy harvesting devices](https://pubs.rsc.org/en/content/articlelanding/2022/MA/D1MA00661D)" Materials Advances, 2022, 3, 1780-1790
+H. Leese, M. Tejkl, L. Vilar, L. Georgi, HC. Yau, N. Rubio, E. Reixach, J. Buk, Q. Jiang, A. Bismarck, R. Hahn, M. Shaffer, "[High-k dielectric screen-printed inks for mechanical energy harvesting devices](https://pubs.rsc.org/en/content/articlelanding/2022/MA/D1MA00661D)" Materials Advances, 2022, 3, 1780-1790
 
 **2021**
 

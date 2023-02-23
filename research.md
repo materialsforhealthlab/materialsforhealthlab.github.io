@@ -15,7 +15,7 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
 
 # Research Topics
 
-<span style="font-size:1.5em">_Material developments ongoing for diagnostic applications:_</span>
+<span style="font-size:1.2em">_Material developments ongoing for diagnostic and therapeutic applications:_</span>
 
 
 ### Materials for Bacterial Infection Detection
