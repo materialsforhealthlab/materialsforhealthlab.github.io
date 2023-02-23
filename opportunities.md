@@ -27,7 +27,8 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 Below are a list of useful websites to explore potential research funding:
 
 #### PhD Studentships
-- [Newton PhD Programme](https://www.britishcouncil.org/education/science/newton-phd-programme)[Chinese Scholarship Council (CSC) Scheme for Chinese scientists](https://www.bath.ac.uk/guides/china-scholarship-council-university-of-bath-phd-programme/)
+- [Newton PhD Programme](https://www.britishcouncil.org/education/science/newton-phd-programme)
+- [Chinese Scholarship Council (CSC) Scheme for Chinese scientists](https://www.bath.ac.uk/guides/applying-for-the-china-scholarship-council-university-of-bath-phd-programme/)
 - [Imperial Marshall Scholarship Scheme for American scientists](https://www.marshallscholarship.org/apply)
 
 #### Postdoctoral Fellowships
