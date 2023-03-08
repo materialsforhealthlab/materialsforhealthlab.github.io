@@ -8,6 +8,10 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **March 8th 2023:** **Happy International Women's Day 2023** #EmbraceEquity. We are fortunate to have our research highlighted with two publishers, RSC Journal of Materials and Wiley Advanced Materials, to celebrate Women in Materials Science, check out the virtual special issues [here (RSC)](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=mh&themeid=9022818c-728d-474f-bbee-deb2ac8c26d7) and [here (Wiley)](https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1521-4095.WomeninMaterialsScience) 
+
+* **Feb 2023:** Celebratory February continued with Harindi passing her viva on 28th Feb!! Congratulations Harindi!
+
 * **Feb 2023:** A celebratory February! Congratulations Emma on the publication of your self-healing organogel paper, great work - check it out [here](https://pubs.acs.org/doi/10.1021/acsaem.2c03937)
 
 * **Feb 2023:** Big welcome to Andrew, who is joining the group for his MEng research project, looking at how we can process lab plastic in greener ways. Looking forward to working with you Andrew! 
