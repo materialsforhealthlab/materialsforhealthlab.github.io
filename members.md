@@ -95,19 +95,6 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/NB.jpg" class="img-responsive" alt="Dr Nael Berri" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> <a href="https://researchportal.bath.ac.uk/en/persons/nael-berri/"> Dr Nael Berri </a> <br>
-		PDRA BioMed 4.0 (2023-) <br>
-		<p style="color:black;font-size:16px;">Nael is a post-doctoral research associate in the department of Chemical Engineering at the University of Bath. He will be investigating the use of eHD-3D novel technology to manufacture tissue scaffold products. Before joining Bath, he held a post-doc position at the Institute of Molecular Chemistry and Materials of Orsay at the Paris-Saclay University (project funded by the IAEA).  He completed his MSc in biomaterial and tissue engineering and PhD in mechanical engineering at University College London (UCL). Nael is interested in the development of novel processing technologies for handling a wide range of materials that can be used for the development of tissue engineering scaffolds and/or biocoatings. </p>  
-		 </p>
-	</div>
-</div>
-<hr>
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="/img/OD_photo1.jpg" class="img-responsive" alt="Olivia Dickinson" /></a>
 	</div>
 	<div class="col-md-9">
@@ -118,6 +105,19 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 </div>
 
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/NB.jpg" class="img-responsive" alt="Dr Nael Berri" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/nael-berri/"> Dr Nael Berri </a> <br>
+		PDRA BioMed 4.0 (2023-) <br>
+		<p style="color:black;font-size:16px;">Nael is a post-doctoral research associate in the department of Chemical Engineering at the University of Bath. He will be investigating the use of eHD-3D novel technology to manufacture tissue scaffold products. Before joining Bath, he held a post-doc position at the Institute of Molecular Chemistry and Materials of Orsay at the Paris-Saclay University (project funded by the IAEA).  He completed his MSc in biomaterial and tissue engineering and PhD in mechanical engineering at University College London (UCL). Nael is interested in the development of novel processing technologies for handling a wide range of materials that can be used for the development of tissue engineering scaffolds and/or biocoatings. </p>  
+		 </p>
+	</div>
+</div>
 <hr>
 
 <div class="row">
