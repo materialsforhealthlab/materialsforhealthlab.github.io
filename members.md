@@ -20,7 +20,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/hannah-leese"> Dr Hannah Leese (Group Lead) </a> <br>
 		Lecturer in Chemical Engineering <br>
-		<p style="color:black;font-size:16px;">Hannah joined the Department of Chemical Engineering at Bath as Prize Fellow in Advanced Bio-separations in 2018 and is now a Lecturer in the Department. Before rejoining Bath she held post-doc positions in the Department of Chemistry at <a href="https://www.imperial.ac.uk/nanostructures-and-composites"> Imperial College London  </a> and in the <a href="https://www.nanomedicinelab.com/"> Nanomedicine Lab </a> at the University of Manchester. She completed her undergraduate degree in Chemistry at the University of York and her PhD in Chemical Engineering. Hannah is dedicated to bridging disciplines to tackle sustainable healthcare challenges throughout her research and teaching. </p>
+		<p style="color:black;font-size:16px;">Hannah joined the Department of Chemical Engineering at Bath as Prize Fellow in Advanced Bio-separations in 2018 and is now a Lecturer in the Department. Before rejoining Bath she held post-doc positions in the Department of Chemistry at <a href="https://www.imperial.ac.uk/nanostructures-and-composites"> Imperial College London  </a> and in the <a href="https://www.nanomedicinelab.com/"> Nanomedicine Lab </a> at the University of Manchester. She completed her undergraduate degree in Chemistry at the University of York and her PhD in Chemical Engineering. Hannah has been recognised for her research by the IChemE, and was awarded the <a href="https://www.icheme.org/knowledge/medals-and-prizes/research-and-teaching/nicklin-medal/"> Nicklin Medal </a> in 2022. As well as leading the team, Hannah is the Deputy Director of the Centre for Bioengineering and Biomedical Technologies (CBio), and co-theme lead of sustainable engineering  materials in <a href="https://icast.org.uk/core-research-programme/sustainable-engineering-materials/"> iCAST </a>. Hannah is dedicated to bridging disciplines to tackle sustainable healthcare challenges throughout her research and teaching. </p>
 		</p>
 	</div>
 </div>
@@ -120,6 +120,24 @@ share-description: Find out more about the Materials for Health Lab members!
 </div>
 <hr>
 
+</div>
+
+
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/BZ.jpg" class="img-responsive" alt="Dr Xiang Ding" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Dr Xiang Ding <br>
+		iCAST Sustainable Engineering Materials Core-PDRA (Apr 2023-)<br>
+
+		</p>
+	</div>
+</div>
+
+<hr>
+
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="/img/Meltem.jpg" class="img-responsive" alt="Meltem Agar" /></a>
@@ -173,7 +191,7 @@ share-description: Find out more about the Materials for Health Lab members!
 		</p>
 	</div>
 </div>
-</div>
+
 
 
 <hr>
@@ -183,7 +201,7 @@ share-description: Find out more about the Materials for Health Lab members!
 * Dr Ria Atri - PhD Researcher (2016-2022) - Now Programme Officer, Awards and Prizes, Royal Society of Chemistry (2022)
 * Dr Scott McCormick - Microfluidics Engineer - GenomeKey (2022)
 * Dr Dan Merryweather - Now PDRA on NeuChip Project - Loughborough University (2021)
-* Sukanya Hongthong – Royal Thai Scholarship PhD Researcher (2017-2021) - Now Lecturer at Chaiyaphum Rajabhat University
+* Dr Sukanya Hongthong – Royal Thai Scholarship PhD Researcher (2017-2021) - Now Lecturer at Chaiyaphum Rajabhat University
 * Eleni Nicodemou– MSc Student (Feb-Sept 2020)
 * Sotia Neopyhtou – MSc Student (Feb-Sept 2020)
 * Duangkamon Thasriphu – MEng (Feb-May 2020)
