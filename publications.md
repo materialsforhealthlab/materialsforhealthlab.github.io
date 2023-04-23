@@ -13,7 +13,7 @@ share-description: Read the latest published work of the Materials for Health La
 
 
 J. Turner, E. Lay, U. Jungwirth, V. Varenko, H. Gill, P. Estrela, H. Leese 
- "3D Printed Hollow Microneedle-Lateral Flow Devices for Rapid Blood-free detection of C-Reactive Protein and Procalcitonin" Advanced Materials Technologies, 2023, DOI: 10.1002/admt.202300259 (just accepted)
+ "[3D Printed Hollow Microneedle-Lateral Flow Devices for Rapid Blood-free detection of C-Reactive Protein and Procalcitonin"](../Hollow_MNs_accepted_version.pdf) Advanced Materials Technologies, 2023, DOI: 10.1002/admt.202300259 (just accepted)
 
 E. Daniels, James Runge, Matthew Oshinowo, H. Leese, A. Buchard "[Cross-Linking of Sugar-Derived Polyethers and Boronic Acids for Renewable, Self-Healing, and Single-Ion Conducting Organogel Polymer Electrolytes](https://pubs.acs.org/doi/10.1021/acsaem.2c03937)" Applied Energy Materials, 2023, DOI: 10.1021/acsaem.2c03937
 
