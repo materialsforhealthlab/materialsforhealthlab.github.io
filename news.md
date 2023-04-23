@@ -8,6 +8,11 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+
+* **Apr 2023:** Massive welcome to Dr Xiang Ding, joining us and iCAST on sustainable healthcare materials!
+
+* **Apr 2023:** Congratulations Joe on the publication of your 3D printed hollow microneedle paper recently accepted in Advance Materials Technologies, great work Joe - check it out! 
+
 * **March 8th 2023:** **Happy International Women's Day 2023** #EmbraceEquity. We are fortunate to have our research highlighted with two publishers, RSC Journal of Materials and Wiley Advanced Materials, to celebrate Women in Materials Science, check out the virtual special issues [here (RSC)](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=mh&themeid=9022818c-728d-474f-bbee-deb2ac8c26d7) and [here (Wiley)](https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1521-4095.WomeninMaterialsScience) 
 
 * **Feb 2023:** Celebratory February continued with Harindi passing her viva on 28th Feb!! Congratulations Harindi!
