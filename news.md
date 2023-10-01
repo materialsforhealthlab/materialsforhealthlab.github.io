@@ -8,6 +8,9 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Sept 2023:** It's been a busy summer with lots of exciting changes and celebrations: Emma, Yasemin and Joe, all had their viva's, are now all Dr's and are now in exciting news positions. A fond farewell to Dr Tony Keirouz, our MIMIC-nano project came to an end and Tony is now working for Oxartis, looking forward to continue to work together.
+
+* **Aug 2023:** Congratulations Joe on the publication of your antimicrobial hydrogel microneedle paper - check it out! 
 
 * **Apr 2023:** Massive welcome to Dr Xiang Ding, joining us and iCAST on sustainable healthcare materials!
 
