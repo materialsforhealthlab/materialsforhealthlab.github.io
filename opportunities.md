@@ -13,11 +13,13 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
+* Adverts for 2 PDRA positions in the group coming soon - watch this space!
 * Keep checking back here for opportunities to join the group.
 * Please contact the group if you are interesting in visiting the lab/fellowships
  
 #### PhD Studentships
 
+* Get in touch and apply now! [MRC Funded Studentship available with us!](https://www.findaphd.com/phds/project/gw4-biomed2-mrc-dtp-phd-project-microneedle-integrated-foetal-scalp-electrodes-for-neonatal-brain-monitoring/?p160564)
 * There are useful links below for potential funding routes.
 
 <hr>
