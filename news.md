@@ -8,6 +8,12 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Oct 2023:** Our research in hydrogel microneedles has been highlighted in the University of Bath homepages - read more [here](https://www.bath.ac.uk/announcements/no-more-big-needles-scientists-develop-a-skin-patch-that-painlessly-delivers-drugs-into-the-body/)!
+
+* **Oct 2023:** Xiang and Hannah take part in [Reddit's I'm a Scientist Ask Me Anything](https://www.reddit.com/r/IAmA/comments/179wpdj/hi_were_hannah_and_xiang_from_the_university_of/)! 
+
+* **Oct 2023:** Huge welcome to the Materials for Health Lab, Sophie Barber, Jack Tinker and Callum Donaldson who have recently started their PhD projects with Professor Antoine Buchard and Dr Carmelo Herdes and Dr Hannah Leese.
+
 * **Sept 2023:** It's been a busy summer with lots of exciting changes and celebrations: Emma, Yasemin and Joe, all had their viva's, are now all Dr's and are now in exciting news positions. A fond farewell to Dr Tony Keirouz, our MIMIC-nano project came to an end and Tony is now working for Oxartis, looking forward to continue to work together.
 
 * **Aug 2023:** Congratulations Joe on the publication of your antimicrobial hydrogel microneedle paper - check it out! 

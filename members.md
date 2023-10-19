@@ -121,6 +121,51 @@ share-description: Find out more about the Materials for Health Lab members!
 		PhD Researcher in Chemical Engineering (Oct 2022-)<br>
 
 		</p>
+
+
+		
+	</div>
+</div>
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/BZ.jpg" class="img-responsive" alt="Sophie Barber" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Sophie Barber <br>
+		PhD Researcher (Oct 2023-)<br>
+
+		</p>
+	</div>
+</div>
+
+
+<hr>
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/BZ.jpg" class="img-responsive" alt="Jack Tinker" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Jack Tinker <br>
+		PhD Researcher (Oct 2023-)<br>
+
+		</p>
+	</div>
+</div>
+
+<hr>
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/BZ.jpg" class="img-responsive" alt="Callum Donaldson" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Callum Donaldson <br>
+		PhD Researcher (Oct 2023-)<br>
+
+		</p>
 	</div>
 
 		
