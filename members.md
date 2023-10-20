@@ -62,7 +62,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> Sadeka Nujhat <br>
-		PhD Researcher (Jan 2022-)<br>
+		PhD Researcher in Chemical Engineering (Jan 2022-)<br>
 		<p style="color:black;font-size:16px;">Sadeka is currently a PhD researcher working on developing a microfluidic device for the early ovarian cancer detection, supervised by Dr Sandhya Moise and Dr Hannah Leese. This project focuses on the analysis of exosomes as biomarkers for cancer detection. Sadeka graduated in Biomedical Science (BSc) and Genomic Medicine (MSc) from Queen Mary University of London. For her MSc thesis, Sadeka analysed genomic data to establish potential genetic mutations that contribute to the development of familial acute myeloid leukaemia in the Barts Cancer Institute (BCI). She later joined BCI as a lab technician handling cancer clinical trial samples. </p>
 		</p>
 	</div>
@@ -104,7 +104,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> Bo Zhu <br>
-		PhD Researcher (Oct 2019-)<br>
+		PhD Researcher in Chemical Engineering (Oct 2019-)<br>
 
 		</p>
 	</div>
@@ -112,6 +112,20 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <hr>
 
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/BZ.jpg" class="img-responsive" alt="Asghar Niyaziesfiyani" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Asghar Niyaziesfiyani <br>
+		PhD Researcher in Chemical Engineering (Jan 2022-)<br>
+
+		</p>
+	</div>
+</div>
+
+<hr>
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="/img/PT.jpg" class="img-responsive" alt="Paramabhorn Tosuwan" /></a>
@@ -134,7 +148,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> Sophie Barber <br>
-		PhD Researcher (Oct 2023-)<br>
+		PhD Researcher in Chemistry (Oct 2023-)<br>
 
 		</p>
 	</div>
@@ -147,7 +161,7 @@ share-description: Find out more about the Materials for Health Lab members!
 		<img src="/img/BZ.jpg" class="img-responsive" alt="Jack Tinker" /></a>
 	</div>
 	<div class="col-md-9">
-		<p> Jack Tinker <br>
+		<p> Jack Tinker in Chemistry <br>
 		PhD Researcher (Oct 2023-)<br>
 
 		</p>
@@ -161,7 +175,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> Callum Donaldson <br>
-		PhD Researcher (Oct 2023-)<br>
+		PhD Researcher in Chemical Engineering (Oct 2023-)<br>
 
 		</p>
 	</div>
