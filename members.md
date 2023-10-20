@@ -91,7 +91,7 @@ share-description: Find out more about the Materials for Health Lab members!
 	<div class="col-md-9">
 		<p> <a href="https://www.linkedin.com/in/xiang-ding-535954a1/"> Dr Xiang Ding </a> <br>
 		iCAST - PDRA (Apr 2023-) <br>
-		<p style="color:black;font-size:16px;">Xiang is currently a member of the Materials for Health Lab and a core postdoctoral researcher in iCAST. He is working on developing sustainable polymers and exploring their biomedical application using the electrospinning technique and 3D printing. Xiang graduated in Materials Engineering (PhD) from Deakin University and Textile Engineering (MSc and BSc) from Tianjin Polytechnic University. His PhD project focuses on conducting polymer-based nanogenerators that convert mechanical energy into electrical energy. Xiang’s research interests include electrospinning, 3D printing, and sustainable energy technologies. </p>  
+		<p style="color:black;font-size:16px;">Xiang is currently a member of the Materials for Health Lab and a core postdoctoral researcher in iCAST. He is working on developing sustainable polymers and exploring their biomedical application using the electrospinning technique and 3D printing. Xiang graduated in Materials Engineering (PhD) from Deakin University and Textile Engineering (MSc and BSc) from Tianjin Polytechnic University. His PhD project focuses on conducting polymer-based nanogenerators that convert mechanical energy into electrical energy. Xiang’s research interests include electrospinning, 3D printing, and sustainable energy technologies.</p>  
 		 </p>
 	</div>
 </div>
@@ -114,15 +114,13 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/BZ.jpg" class="img-responsive" alt="Paramabhorn Tosuwan" /></a>
+		<img src="/img/PT.jpg" class="img-responsive" alt="Paramabhorn Tosuwan" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> Paramabhorn Tosuwanu <br>
 		PhD Researcher in Chemical Engineering (Oct 2022-)<br>
-
+		<p style="color:black;font-size:16px;">Paramabhorn is currently a PhD researcher working on the development of seaweed-derived functionalized carbohydrate biopolymers, under the supervision of Prof Chris Chuck and Dr Hannah Leese. This project aims to significantly improve the properties of seaweed carbohydrate polymers by enhancing their water barrier properties and mechanical characteristics through chemical functionalization. Paramabhorn obtained her BSc with first-class honors in Chemistry from Kasetsart University and an MSc in Petrochemical Technology from Chulalongkorn University.</p> 
 		</p>
-
-
 		
 	</div>
 </div>
