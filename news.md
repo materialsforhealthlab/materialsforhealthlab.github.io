@@ -8,6 +8,20 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Oct 2023:** Chloe presents research from her summer research project in Bath at the Southeast Regional Meeting of the American Chemical Society (SERMACS) in Durham, North Carolina, US. 
+
+<hr>
+
+<div class="container">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/CC.jpg" alt="Centered Image"/></a>
+
+	</div>
+</div>
+
+<hr>
+
+
 * **Oct 2023:** Our research in hydrogel microneedles has been highlighted in the University of Bath homepages - read more [here](https://www.bath.ac.uk/announcements/no-more-big-needles-scientists-develop-a-skin-patch-that-painlessly-delivers-drugs-into-the-body/)!
 
 * **Oct 2023:** Xiang and Hannah take part in [Reddit's I'm a Scientist Ask Me Anything](https://www.reddit.com/r/IAmA/comments/179wpdj/hi_were_hannah_and_xiang_from_the_university_of/)! 
@@ -17,6 +31,8 @@ share-description: Latest news from the Materials for Health Lab!
 * **Sept 2023:** It's been a busy summer with lots of exciting changes and celebrations: Emma, Yasemin and Joe, all had their viva's, are now all Dr's and are now in exciting news positions. A fond farewell to Dr Tony Keirouz, our MIMIC-nano project came to an end and Tony is now working for Oxartis, looking forward to continue to work together.
 
 * **Aug 2023:** Congratulations Joe on the publication of your antimicrobial hydrogel microneedle paper - check it out! 
+
+* **Jul 2023:** Huge welcome to Chloe, from High Point University, US, joining the group over the summer as part of the Research Experience for Undergraduates funded by the National Science Foundation (NSF) and supported by the Institute for Sustainability (IfS), Bath.
 
 * **Apr 2023:** Massive welcome to Dr Xiang Ding, joining us and iCAST on sustainable healthcare materials!
 
