@@ -13,13 +13,14 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* Adverts for 2 PDRA positions in the group coming soon - watch this space!
+* [Research Associate in Advanced Separations (Fixed Term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=FM11148)
+* [Research Associate in Intelligent Additive Manufacturing and Sensing Technologies (Fixed Term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=FM11107)
 * Keep checking back here for opportunities to join the group.
 * Please contact the group if you are interesting in visiting the lab/fellowships
  
 #### PhD Studentships
 
-* Get in touch and apply now! [MRC Funded Studentship available with us!](https://www.findaphd.com/phds/project/gw4-biomed2-mrc-dtp-phd-project-microneedle-integrated-foetal-scalp-electrodes-for-neonatal-brain-monitoring/?p160564)
+* Get in touch and apply now! [University Studentship available](https://www.findaphd.com/phds/project/university-of-bath-ursa-project-portable-molecularly-imprinted-sensors-detecting-per-and-poly-fluoroalkyl-substances-pfas/?p162927)
 * There are useful links below for potential funding routes.
 
 <hr>

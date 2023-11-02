@@ -161,8 +161,8 @@ share-description: Find out more about the Materials for Health Lab members!
 		<img src="/img/BZ.jpg" class="img-responsive" alt="Jack Tinker" /></a>
 	</div>
 	<div class="col-md-9">
-		<p> Jack Tinker in Chemistry <br>
-		PhD Researcher (Oct 2023-)<br>
+		<p> Jack Tinker <br>
+		PhD Researcher in Chemistry(Oct 2023-)<br>
 
 		</p>
 	</div>
@@ -189,6 +189,8 @@ share-description: Find out more about the Materials for Health Lab members!
 
 ## Former Members
 
+* Chloe Cox - Visiting UG student, US, on the Research Experience for Undergraduates funded by the National Science Foundation (Jun-Aug 2023) 
+* Andrew Jennings - MEng Researcher (Feb-Aug 2023) - Now PhD student in Mech Eng, Bath
 * Dr Tony Keirouz - PDRA on EPSRC MIMIC-nano project (2021-2023) - Now at Oxartis
 * Dr Yasemin Mustafa - C3Bio PhD Researcher (2019-2023) - Now Post-doctoral researcher at the University of Basel 
 * Dr Joseph Turner - Abbott-EPSRC PhD Researcher (2019-2023) - Now Scientist IV at Abbott Diabetes Care, R&D

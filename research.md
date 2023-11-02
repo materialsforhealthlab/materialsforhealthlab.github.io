@@ -52,6 +52,10 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
 -	Hydrogel microneedles development
 -	Imprinted conductive nanoneedles
 
+### Materials for Wound Dressings
+-	Therapeutic composite fibres
+-	De novo polypeptide fibres 
+
    <article>
             
                 <div class="embedded-media">
@@ -59,10 +63,6 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
                 </div>
               </article>
             
-
-### Materials for Wound Dressings
--	Therapeutic composite fibres
--	De novo polypeptide fibres 
 
 <br>
 # Research Supported by:
