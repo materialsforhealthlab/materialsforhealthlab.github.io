@@ -13,8 +13,7 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* [Research Associate in Advanced Separations (Fixed Term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=FM11148)
-* [Research Associate in Intelligent Additive Manufacturing and Sensing Technologies (Fixed Term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=FM11107)
+* [Research Associate in Membrane Based Downstream Separations (Fixed Term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=FM11148R)
 * Keep checking back here for opportunities to join the group.
 * Please contact the group if you are interesting in visiting the lab/fellowships
  

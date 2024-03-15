@@ -21,6 +21,7 @@ share-description: Latest news from the Materials for Health Lab!
 
 <hr>
 
+* **Feb 2024:** Welcome to five MEng UG Researchers joining the lab for their research project - we are looking forward to working with you!
 
 * **Oct 2023:** Our research in hydrogel microneedles has been highlighted in the University of Bath homepages - read more [here](https://www.bath.ac.uk/announcements/no-more-big-needles-scientists-develop-a-skin-patch-that-painlessly-delivers-drugs-into-the-body/)!
 

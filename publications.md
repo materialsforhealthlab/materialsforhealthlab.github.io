@@ -9,8 +9,15 @@ share-description: Read the latest published work of the Materials for Health La
 
 **Journal Articles**
 
+**2024**
+
+Q. Jiang, V. Otáhalová, V. Burre, H. Leese, M. Shaffer, R. Hahn, A. Menner, A. Bismarck
+ "[Variable capacity polymer based energy harvesters with integrated macroporous elastomer springs](https://www.sciencedirect.com/science/article/pii/S2211285524002088?via%3Dihub)" Nano Energy, 2024, DOI: 10.1016/j.nanoen.2024.109460
+
 **2023**
 
+J. Turner, M. Laabei, S. Li, P. Estrela, H. Leese 
+ "[Advances in screening and diagnostic lab-on-chip tools for gynaecological cancers – a review](https://www.tandfonline.com/doi/full/10.1080/21691401.2023.2274047)" Artificial Cells, Nanomedicine, and Biotechnology, 2023, DOI: 10.1080/21691401.2023.2274047
 
 J. Turner, M. Laabei, S. Li, P. Estrela, H. Leese 
  "[Antimicrobial releasing hydrogel forming microneedles](https://www.sciencedirect.com/science/article/pii/S2772950823001905?via%3Dihub)" Biomaterials Advances, 2023, DOI: 10.1016/j.bioadv.2023.213467
