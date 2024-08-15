@@ -19,8 +19,8 @@ share-description: Find out more about the Materials for Health Lab members!
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/hannah-leese"> Dr Hannah Leese (Group Lead) </a> <br>
-		Lecturer in Chemical Engineering <br>
-		<p style="color:black;font-size:16px;">Hannah joined the Department of Chemical Engineering at Bath as Prize Fellow in 2018 and is now a Reader (Associate Professor) in the Department. Hannah leads the <a href="http://materialsforhealthlab.org/biomed4point0/index"> EPSRC project "Manufacturing in Hospital: BioMed 4.0" </a> and is CoI in the <a href="https://www.bath.ac.uk/projects/carma-cellular-agriculture-manufacturing-hub/"> EPSRC CARMA Hub </a> and <a href="https://www.bath.ac.uk/announcements/making-food-from-grass-creating-new-meat-and-dairy-alternatives-to-reduce-the-impact-of-agriculture/"> BBSRC Pasture2Plate project</a>. Before rejoining Bath she held post-doc positions in the Department of Chemistry at <a href="https://www.imperial.ac.uk/nanostructures-and-composites"> Imperial College London  </a> and in the <a href="https://www.nanomedicinelab.com/"> Nanomedicine Lab </a> at the University of Manchester. Hannah has been recognised for her research by the IChemE, and was awarded the <a href="https://www.icheme.org/knowledge/medals-and-prizes/research-and-teaching/nicklin-medal/"> Nicklin Medal </a> in 2022. As well as leading the team, Hannah is the Deputy Director of the Centre for Bioengineering and Biomedical Technologies (CBio), and co-theme lead of sustainable engineering  materials in <a href="https://icast.org.uk/core-research-programme/sustainable-engineering-materials/"> iCAST </a>. Hannah is dedicated to bridging disciplines to tackle sustainable healthcare challenges throughout her research and teaching. Hannah is also passionate and dedicated to Diversity, Equality and Inclusion, is the Department of Chemical Engineering DEI champion and recently led the successful award of the Department's Athena Swan Silver (2023). </p>
+		Reader (Associate Professor) in Chemical Engineering <br>
+		<p style="color:black;font-size:16px;">Hannah joined the Department of Chemical Engineering at Bath as Prize Fellow in 2018 and is now a Reader (Associate Professor) in the Department. Hannah leads the <a href="http://materialsforhealthlab.org/biomed4point0/index"> EPSRC project "Manufacturing in Hospital: BioMed 4.0" </a> and is CoI and WP2 lead in the <a href="https://www.bath.ac.uk/projects/carma-cellular-agriculture-manufacturing-hub/"> EPSRC CARMA Hub </a> and <a href="https://www.bath.ac.uk/announcements/making-food-from-grass-creating-new-meat-and-dairy-alternatives-to-reduce-the-impact-of-agriculture/"> BBSRC Pasture2Plate project</a>. Before rejoining Bath she held post-doc positions in the Department of Chemistry at <a href="https://www.imperial.ac.uk/nanostructures-and-composites"> Imperial College London  </a> and in the <a href="https://www.nanomedicinelab.com/"> Nanomedicine Lab </a> at the University of Manchester. Hannah has been recognised for her research by the IChemE, and was awarded the <a href="https://www.icheme.org/knowledge/medals-and-prizes/research-and-teaching/nicklin-medal/"> Nicklin Medal </a> in 2022. As well as leading the team, Hannah is the Deputy Director of the Centre for Bioengineering and Biomedical Technologies (CBio), and co-theme lead of sustainable engineering  materials in <a href="https://icast.org.uk/core-research-programme/sustainable-engineering-materials/"> iCAST </a>. Hannah is dedicated to bridging disciplines to tackle sustainable healthcare challenges throughout her research and teaching. Hannah is also passionate and dedicated to Diversity, Equality and Inclusion, is the Department of Chemical Engineering DEI champion and recently led the successful award of the Department's Athena Swan Silver (2023). </p>
 		</p>
 	</div>
 </div>
@@ -97,22 +97,6 @@ share-description: Find out more about the Materials for Health Lab members!
 </div>
 <hr>
 
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/BZ.jpg" class="img-responsive" alt="Bo Zhu" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> Bo Zhu <br>
-		PhD Researcher in Chemical Engineering (Oct 2019-)<br>
-
-		</p>
-	</div>
-</div>
-
-<hr>
-
-
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="/img/BZ.jpg" class="img-responsive" alt="Asghar Niyaziesfiyani" /></a>
@@ -144,33 +128,6 @@ share-description: Find out more about the Materials for Health Lab members!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/BZ.jpg" class="img-responsive" alt="Sophie Barber" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> Sophie Barber <br>
-		PhD Researcher in Chemistry (Oct 2023-)<br>
-
-		</p>
-	</div>
-</div>
-
-
-<hr>
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/BZ.jpg" class="img-responsive" alt="Jack Tinker" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> Jack Tinker <br>
-		PhD Researcher in Chemistry(Oct 2023-)<br>
-
-		</p>
-	</div>
-</div>
-
-<hr>
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="/img/BZ.jpg" class="img-responsive" alt="Callum Donaldson" /></a>
 	</div>
 	<div class="col-md-9">
@@ -183,63 +140,73 @@ share-description: Find out more about the Materials for Health Lab members!
 		
 	</div>
 
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="/img/MD.jpg" class="img-responsive" alt="Dr Madhurima Dutta" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> Dr Madhurima Dutta <br>
+		PDRA Pasture to Plate (May 2024-)<br>
+		<p style="color:black;font-size:16px;">Madhurima is a postdoctoral research associate in the Department of Chemical Engineering at the University of Bath. She is currently working with Dr. Hannah Leese on the "Pasture to Plate" project, which focuses on the development of novel foods through protein separation using polymeric membranes. Before joining Bath, Madhurima completed her M.Tech and Ph.D in Chemical Engineering at the Indian Institute of Technology Kharagpur,India,  where she specialized in the development of innovative membranes for treating industrial wastewater streams. She graduated with a B.Tech in Chemical Engineering from the Heritage Institute of Technology, earning the university gold medal for her outstanding academic performance.
+Madhurima is interested in advancing sustainable food technology and environmental solutions using membranes, focussing on green technology solutions. Her research primarily focuses on protein separation, polymeric membranes, novel food development, and industrial wastewater treatment.
+</p> 
+		
+
+		</p>
+	</div>
+	
+	</div>
 
 <hr>
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/BZ.jpg" class="img-responsive" alt="Sarah Wilson" /></a>
+		<img src="/img/FA.jpg" class="img-responsive" alt="Dr Fatima Anjum" /></a>
 	</div>
 	<div class="col-md-9">
-		<p> Sarah Wilson <br>
-		MEng Researcher in Chemical Engineering (2024)<br>
+		<p> Dr. -Ing Fatima Anjum <br>
+		PDRA CARMA (June 2024-)<br>
+		<p style="color:black;font-size:16px;"> Fatima is a Research Associate at University of Bath with a focus on downstream process development for Cellular Agriculture particularly Precision Fermentation based product. Fatima has a background of Chemical Engineering with Masters in Membrane Engineering (completed in 2020). She pursued Marie Curie Industrial Doctorate Program (LongActNow) at TU Dortmund, Germany and Janssen Pharmaceutics, Belgium from 2020 to 2024. Her doctoral research was focused on development of downstream purification process of pharmaceutical crystal suspensions using membrane technology.
+LinkedIn profile: <a href="https://www.linkedin.com/in/fatimaanjum//"> (1) Fatima Anjum | LinkedIn </a>. Watch her talking about her doctoral research here: <a href="https://www.sciencefiguredout.be/pill-every-few-hours-injection-every-few-months"> From a pill every few hours to an injection every few months | Wetenschap uitgedokterd (sciencefiguredout.be) </a>
+</p> 
+		
 
 		</p>
 	</div>
-
-		
+	
 	</div>
-
+	
 
 <hr>
-
-<div class="row">
+		
+		<div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/BZ.jpg" class="img-responsive" alt="Evan Johns" /></a>
+		<img src="/img/BZ.jpg" class="img-responsive" alt="Jing Zhang" /></a>
 	</div>
 	<div class="col-md-9">
-		<p> Evan Johns <br>
-		MEng Researcher in Chemical Engineering (2024)<br>
+		<p> Jing Zhang <br>
+		Research Assistant CARMA (June 2024-)<br>
+
 
 		</p>
 	</div>
-
-		
-	</div>
-
 
 <hr>
-
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/BZ.jpg" class="img-responsive" alt="Krystian Lewandowski" /></a>
 	</div>
-	<div class="col-md-9">
-		<p> Krystian Lewandowski <br>
-		MEng Researcher in Chemical Engineering (2024)<br>
-
-		</p>
 	</div>
-
-		
-	</div>
-</div>
-
 
 <hr>
 
 ## Former Members
 
+* Dr Bo Zhu - PhD Researcher (2019-2024)
+* Sarah Wilson - MEng Researcher (Feb-May 2024)
+* Gemma Wilson - MEng Researcher (Feb-May 2024)
+* Saty Mishra - MEng Researcher (Feb-May 2024)
+* Krystian Lewandowski - MEng Researcher (Feb-May 2024)
+* Evan Johns - MEng Researcher (Feb-May 2024)
 * Chloe Cox - Visiting UG student, US, on the Research Experience for Undergraduates funded by the National Science Foundation (Jun-Aug 2023) 
 * Andrew Jennings - MEng Researcher (Feb-Aug 2023) - Now PhD student in Mech Eng, Bath
 * Dr Tony Keirouz - PDRA on EPSRC MIMIC-nano project (2021-2023) - Now at Oxartis

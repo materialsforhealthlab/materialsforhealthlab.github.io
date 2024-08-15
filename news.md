@@ -8,24 +8,21 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
-* **Oct 2023:** Chloe presents research from her summer research project in Bath at the Southeast Regional Meeting of the American Chemical Society (SERMACS) in Durham, North Carolina, US. 
+* **Aug 2024:** Fond farewell to Jack and Sophie who are moving to the University of York to continue their studies with their principle supervisor Prof Antoine Buchard. Wishing you all the very best and looking forward to visiting soon!
 
-<hr>
+* **July 2024:** We are delighted to welcome Makenzie Wiseman to the group. Makenzie joins us from High Point University, US, joining the group over the summer as part of the Research Experience for Undergraduates funded by the National Science Foundation (NSF) and supported by the Institute for Sustainability (IfS), Bath. 
 
-<div class="container">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/CC.jpg" alt="Centered Image"/></a>
+* **June 2024:** We are delighted to welcome Dr Fatima Anjum and Jing Zhang to the group, Fatima and Jing will be working on the [EPSRC funded Cellular Agriculture Manufacturing Hub](https://carmahub.co.uk), where together with colleagues at Bath and UCL we will be working to recover and reutilise spent culture media and precision fermentation components. 
 
-	</div>
-</div>
-
-<hr>
+* **May 2024:** We are delighted to welcome Dr Madhurima Dutta to the group, Madhurima will be working on the BBSRC funded Pasture 2 Plate project, optimising the downstream biosepartion process to extract edible proteins from grass.
 
 * **Feb 2024:** Welcome to five MEng UG Researchers joining the lab for their research project - we are looking forward to working with you!
 
 * **Oct 2023:** Our research in hydrogel microneedles has been highlighted in the University of Bath homepages - read more [here](https://www.bath.ac.uk/announcements/no-more-big-needles-scientists-develop-a-skin-patch-that-painlessly-delivers-drugs-into-the-body/)!
 
 * **Oct 2023:** Xiang and Hannah take part in [Reddit's I'm a Scientist Ask Me Anything](https://www.reddit.com/r/IAmA/comments/179wpdj/hi_were_hannah_and_xiang_from_the_university_of/)! 
+
+* **Oct 2023:** Chloe presents research from her summer research project in Bath at the Southeast Regional Meeting of the American Chemical Society (SERMACS) in Durham, North Carolina, US. 
 
 * **Oct 2023:** Huge welcome to the Materials for Health Lab, Sophie Barber, Jack Tinker and Callum Donaldson who have recently started their PhD projects with Professor Antoine Buchard and Dr Carmelo Herdes and Dr Hannah Leese.
 

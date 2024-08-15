@@ -13,13 +13,11 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* [Research Associate in Membrane Based Downstream Separations (Fixed Term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=FM11148R)
 * Keep checking back here for opportunities to join the group.
 * Please contact the group if you are interesting in visiting the lab/fellowships
  
 #### PhD Studentships
 
-* Get in touch and apply now! [University Studentship available](https://www.findaphd.com/phds/project/university-of-bath-ursa-project-portable-molecularly-imprinted-sensors-detecting-per-and-poly-fluoroalkyl-substances-pfas/?p162927)
 * There are useful links below for potential funding routes.
 
 <hr>
@@ -29,7 +27,7 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 Below are a list of useful websites to explore potential research funding:
 
 #### PhD Studentships
-- [Newton PhD Programme](https://www.britishcouncil.org/education/science/newton-phd-programme)
+- [Newton PhD Programme](https://www.britishcouncil.vn/en/programmes/education/science-innovation/newton-programme-vietnam/phd-programme)
 - [Chinese Scholarship Council (CSC) Scheme for Chinese scientists](https://www.bath.ac.uk/guides/applying-for-the-china-scholarship-council-university-of-bath-phd-programme/)
 - [Imperial Marshall Scholarship Scheme for American scientists](https://www.marshallscholarship.org/apply)
 
