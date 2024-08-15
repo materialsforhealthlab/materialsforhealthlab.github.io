@@ -11,6 +11,14 @@ share-description: Read the latest published work of the Materials for Health La
 
 **2024**
 
+P. Tosuwan, H. Leese, C. Chuck, "[Developing Hydrophobic Alginate-Amine Derivatives as a Coating for Food Packaging]" ACS Applied Polymer Materials, 2024 (just accepted)
+
+O. Olalere, F. Guler Gencer, C. Chuck, H. Leese, B. Castro-Dominguez "[Mechanochemical extraction of edible proteins from moor grass](https://pubs.rsc.org/en/content/articlelanding/2024/mr/d4mr00016a)" RSC Mechanochemistry, 2024, DOI: 10.1039/D4MR00016A
+
+S. Alkandari, M. Ching, J. Lightfoot, N. Berri, H. Leese, B. Castro-Dominguez "[Recycling and 3D-Printing Biodegradable Membranes for Gas Separation - toward a Membrane Circular Economy](https://pubs.acs.org/doi/10.1021/acsaenm.4c00060)" ACS Applied Engineering Materials, 2024, DOI: 10.1021/acsaenm.4c00060
+
+A. Keirouz, U. Jungwirth, U. Graf, H. Leese "[Synergistic Interface Platforms: Designing Superhydrophilic Conductive Nanoparticle-Decorated Nanofibrous Membranes](https://onlinelibrary.wiley.com/doi/10.1002/admi.202400040)" Advanced Materials Interfaces, 2024, DOI: 10.1002/admi.202400040
+
 Q. Jiang, V. Otáhalová, V. Burre, H. Leese, M. Shaffer, R. Hahn, A. Menner, A. Bismarck
  "[Variable capacity polymer based energy harvesters with integrated macroporous elastomer springs](https://www.sciencedirect.com/science/article/pii/S2211285524002088?via%3Dihub)" Nano Energy, 2024, DOI: 10.1016/j.nanoen.2024.109460
 
